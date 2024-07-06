@@ -17,7 +17,7 @@ I can hurt people when I say things that I don't understand fully/well/from all 
 Hell, any critisism is welcomed, as long as the intention is open conversation and improvement. I'll hopefully be able to take what I can take from it and leave the rest, although I do hope the person who's giving me criticism can refrain from reactivity.  
 I really try to interrogate the "policing" dynamics in interpersonal spaces. What are "constructive"? What are "mean"? What are "yeah but you should have said it better/differently"? What is "policing" and when are we "policing" others when we tell them to "don't police"? Maybe I'll write about this some day. I'm kind of obsessed with language and words.  
 
-4. Please share my writings with credit if you are going to. Attributing to "Phos" & my [Instagram account][https://www.instagram.com/phomnomnom/] is the best way for now. This may be updated in future.
+4. Please share my writings with credit if you are going to. Attributing to "Phos" & my [Instagram account](https://www.instagram.com/phomnomnom/) is the best way for now. This may be updated in future.
 
 5. I don't care about grammar! There will be grammar mistakes. And I will certainly use slangs, meme speak and brain rot speak. I'd like to know if something is causing confusion on meaning but other than that pls keep it to yourself!
 
