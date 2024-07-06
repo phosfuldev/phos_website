@@ -1,0 +1,22 @@
+<!-- not perfected yet
+ <p> filter by tags: 
+  {% for tag in site.data.fragments_content.tags %}
+    <span style="padding: 0.5em; border-style: solid; margin-right: 1em; margin-left: 1em;">{{ tag.tag }} </span>
+  {% endfor %}
+</p> 
+-->
+
+
+{% if site.data.fragments_content.fragments.size > 0 %}
+  <ul>
+    {% for f in site.data.fragments_content.fragments %}
+      <li class="post-list-item">
+        <h5>{{ f.title }}</h5>
+        <p class="post-date">
+          {{ f.date | date: site.theme_config.date_format }}»
+        </p>
+        <p>{{ f.body }}</p>
+      </li>
+    {% endfor %}
+  </ul>
+{% endif %}

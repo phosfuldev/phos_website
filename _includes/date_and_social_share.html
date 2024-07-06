@@ -1,11 +1,13 @@
+<!-- author & date -->
 <p class="post-date text-bold">
   {% if page.author %}
     <span class="text-upcase">{{ page.author }}</span> / 
   {% endif %}
   {% if page.date %}
-    <span class="text-upcase">{{ page.date | date: "%B %Y"}}</span>
+    <span class="text-upcase">{{ page.date | date: "%Y %B %d"}}</span>
   {% endif %}
 
+  <!-- reading time -->
 {% if site.theme_config.show_reading_time == true %}
   {% capture words %}
   {{ content | number_of_words | minus: 180 }}
@@ -17,11 +19,15 @@
 {% endif %}
 </p>
 
-<div class="soopr-btn"
-   data-twitter="SooprCo"
->
-</div>
+<!-- social share buttons; removed for now -->
+{% if site.theme_config.show_post_social_share == true %}
+  <div class="soopr-btn"
+    data-twitter="SooprCo"
+  >
+  </div>
+{% endif %}
 
+<!-- tags -->
 {% if site.theme_config.show_tags == true %}
   <div class="">
     {% for tag in page.tags %}

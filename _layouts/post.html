@@ -3,6 +3,23 @@ layout: default
 ---
 
 <a href="{{ "/" | relative_url }}">{{ site.theme_config.back_home_text }}</a>
+<br>
+<a href="{{ "/blog" | relative_url }}">{{ site.theme_config.back_to_blog_text }}</a>
 <h1 class="post-title">{{ page.title }}</h1>
 {% include date_and_social_share.html %}
+
+
 {{ content }}
+
+
+<!-- link "house rules" -->
+<div class="dashed"></div>
+<a href="{{ "/house-rules" | relative_url }}">Check "house rules" if it's your first time here!</a>
+
+<!-- link footer -->
+{% if site.theme_config.show_footer == true %}
+<footer>
+  <div class="dashed"></div>
+  {% include horizontal_list.html collection=site.data.home.footer_entries %}
+</footer>
+{% endif %}
