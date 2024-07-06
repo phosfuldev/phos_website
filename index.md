@@ -12,11 +12,11 @@ I like to think about things, connect dots, draw patterns.
 ##### Intentions
 
 The most fundamental intention of this website is to **be of service**. (I saw this phrasing from [this post by Maria](https://www.instagram.com/p/C2ag_8kAec7/) and I'm taking it <3)  
-By organising, completing, and giving a home to my thoughts, I hope I'm creating a communual space rather than hosting a lecture. A critical but also warm and validating space, where everything is not for everyone all the time, but valuable to the right people or at the right time.  
+By organising, completing, and giving a home to my thoughts, I hope to create a communual space rather than hosting a lecture. A critical but also warm and validating space, where everything is not for everyone all the time, but valuable to the right people or at the right time.  
 I love chatting with people through [my Instagram](https://www.instagram.com/phomnomnom/) stories. I love the honesty, the bravery, the world-building, and I wish to continue that here. (comment function soon!!)  
 Other purpose of a website are to create a more reliable and user friendly archive for my ideas and thoughts, lessen my dependence on Instagram (eat dirt Meta!!), and push forward my writing skills!  
 
-Here are a few [house rules]() for this website project & online interactions with me in general.  
+Here are a few [house rules](https://phosworld.xyz/house-rules) for this website project & online interactions with me in general.  
 
 
 ##### The "What"
@@ -33,8 +33,6 @@ I will also *amplify* topics & materials including: mutural aid, movement buildi
 ##### Get in touch!
 
 I'm constantly in awe of what community can do together. Forming/finding my own sort of community on Instagram opened up a lot of ideas for me, and I would really like to make those ideas into reality. Most of these projects depend on knowing and getting into touch with different people and collaborating. If you ever want to do something together or want to use my help, pls reach out - send me a dm on insta or [email](mailto:contact.phosworld@protonmail.com)! <3
-
-For a comprehensive list of my skills and experiences pls see [here]().
 
 
 ##### Origin Story
@@ -56,5 +54,5 @@ A lot of my writing is still going to be inspired by what I see on Instagram due
 
 ##### Umm that's enough for introduction I think! Enjoy the website.
 
-By the way the website is made from an open source template - [Moonwalk](https://github.com/abhinavs/moonwalk)!
+By the way the website is made from an open source Jekyll template - [Moonwalk](https://github.com/abhinavs/moonwalk)!
 
