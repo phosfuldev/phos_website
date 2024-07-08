@@ -21,13 +21,15 @@ Here are a few [house rules](https://phosworld.xyz/house-rules) for this website
 
 ##### The "What"
 
-I imagine I'd write mostly about "social justice" topics and adjacent. I'll also write about mental health and being neurodivergent, culture, and maybe also cooking and food, which are all political.  
+I imagine I'd write mostly about "social justice" topics and adjacent. I'll also write about mental health - healing - being neurodivergent, culture, and maybe also cooking and food, which are all political.  
 
 Long form content will be in the "**blog**" section, and I'm thinking short & not-yet-developed but maybe interesting thoughts will be in the "**fragments**" section.  
 
 The **projects** section is a showcase of whan I do IRL/outside of writing.  
 
 I will also *amplify* topics & materials including: mutural aid, movement building, Cov1d science, radical reading lists, etc. I'm planning to collect a list of trusted organisations/activists and useful links in the "**resources**" section.  
+
+Update schedule is not determined, For now I wish to publish articles once or twice a month. Let me know if an email subscription/notification is preferred.
 
 
 ##### Get in touch!
