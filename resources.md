@@ -5,9 +5,9 @@ title: Resources
 
 This is going to be mainly Instagram accounts for a start but I hope to expand it as I grow less dependent on that platform and expand my use of the internet! Recommendations welcome.
 
-(Smol note 1: The lists are sort of ordered but pls don't take any offence at the order! Also most of these lists are not meant to be exhaustive. Usually you can find more goodies in these people's following and story shares! Do some digging! )
+> (Smol note 1: The lists are sort of ordered but pls don't take any offence at the order! Also most of these lists are not meant to be exhaustive. Usually you can find more goodies in these people's following and story shares! Do some digging! )
 
-(Smol note 2: sometimes I put people's names first, sometimes I put the account handle first, it's a bit random but if anyone mentioned here would like to be mentioned differently, pls let me know!)
+> (Smol note 2: sometimes I put people's names first, sometimes I put the account handle first, it's a bit random but if anyone mentioned here would like to be mentioned differently, pls let me know!)
 
 
 #### First Nations Orgs/peoples:  
