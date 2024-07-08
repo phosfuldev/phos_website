@@ -1,4 +1,7 @@
 navbar_entries:
+  - title: 关于本站 (中文/chinese)
+    url: index-chinese
+
   - title: blog
     url: blog 
     # can be actual URL
@@ -14,11 +17,14 @@ navbar_entries:
 
 
 footer_entries:
-  - title: Personal Instagram
+  - title: personal Instagram
     url: https://www.instagram.com/phomnomnom/
 
   - title: email 
     url: mailto:contact.phosworld@protonmail.com
+
+  - title: kofi
+    url: https://ko-fi.com/phosphos
 
   # - title: feed
   #   url: feed.xml
