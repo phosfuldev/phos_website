@@ -143,6 +143,8 @@ The Auti Anthology: [Instagram](https://www.instagram.com/auti_anthology)
 
 Note: they're last but definitely not the least!! Just don't really fit into the above categories.
 
+Free public transport for people with certain mental health conditions - [PTV](https://www.ptv.vic.gov.au/tickets/myki/concessions-and-free-travel/access-travel-pass) (you would need a doctor or psychologist or OT to fill out some questions; a certain diagnosis is not required)
+
 Sudan Updates: [Instagram](https://www.instagram.com/sudan.updates)  
 Justice Mayanija (queer refugees located in Kakuma, Kenya): [Instagram](https://www.instagram.com/justicemayanja) | [GoFundMe](https://gofund.me/bd6c766d)  
 Sam Petersen: [Instagram](https://www.instagram.com/sampetercine) | [Website](https://www.sampetersen.com.au/)  
