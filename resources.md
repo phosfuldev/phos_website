@@ -147,6 +147,8 @@ Sudan Updates: [Instagram](https://www.instagram.com/sudan.updates)
 Justice Mayanija (queer refugees located in Kakuma, Kenya): [Instagram](https://www.instagram.com/justicemayanja) | [GoFundMe](https://gofund.me/bd6c766d)  
 Sam Petersen: [Instagram](https://www.instagram.com/sampetercine) | [Website](https://www.sampetersen.com.au/)  
 
+[Why Misogynists Make Great Informants](https://truthout.org/articles/why-misogynists-make-great-informants/) MUST READ!!!!!
+
 badschoolbadschool: [Instagram](https://www.instagram.com/badschoolbadschool/)  
 Yejin Lee: [Instagram](https://www.instagram.com/yejin_lee) (they are private for the next couple of months but look out for the public)  
 Kiing Curry (bespokecurry): [Instagram](https://www.instagram.com/bespokecurry)  
