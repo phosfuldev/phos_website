@@ -1,21 +1,25 @@
-<!-- not perfected yet
- <p> filter by tags: 
-  {% for tag in site.data.fragments_content.tags %}
-    <span style="padding: 0.5em; border-style: solid; margin-right: 1em; margin-left: 1em;">{{ tag.tag }} </span>
-  {% endfor %}
-</p> 
--->
+<!-- show list of tags at the beginning -->
+<!-- todo: better formatting -->
+<!-- {% if site.data.fragments_content.tags.size > 0 %}
+  <div class="">
+    {% for tag in site.data.fragments_content.tags %}
+      <span class="tag">{{ tag.tag }}</span>
+    {% endfor %}
+  </div>
+{% endif %} -->
 
+Currently moving pieces of thoughts from my instagram stories to here! Very slow process and right now 0 filtering or search functionalities...
 
 {% if site.data.fragments_content.fragments.size > 0 %}
   <ul>
     {% for f in site.data.fragments_content.fragments %}
       <li class="post-list-item">
-        <h5>{{ f.title }}</h5>
+
         <p class="post-date">
           {{ f.date | date: site.theme_config.date_format }}»
         </p>
         <p>{{ f.body }}</p>
+
       </li>
     {% endfor %}
   </ul>

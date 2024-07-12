@@ -1,16 +1,101 @@
-tags: 
+tags:
   - tag: a
   - tag: b
   - tag: c
 
 fragments:
-  - title: test fragment title
-    tags: [a]
-    date: '2024-06-28'
-    body: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus.
+  - tags: [money, work, care work]
+    date: "2024-07-11"
+    body: It's icky to get paid with money/make others pay money if I do any mental health work. Money that person have to exchange with their labour prior somehow. Money that I only want because I need to "pay bills". All made up by a class of people to create scarcity and supress our natural power and agency.
 
-  - title: test fragment title 2
-    tags: [a, b] 
-    date: '2024-06-29'
-    body: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus.
+  - tags: []
+    date: "2024-07-11"
+    body: When navigating the world and being in the world... "I am able to be understood" is honestly a base assumption that needs to be named bc not all of us have that
+
+
+  - tags: []
+    date: "2024-07-09"
+    body: In a meeting when I was asked "how are you", broke the script and didn't say something to the effect of "good", my coworker started to say stuff like "don't let it get you down it's not worth it" 😂 <br> At that moment it really felt like there's a "script" and he's just following it 😂
+    image:
+
+  - tags: []
+    date: "2024-07-04"
+    body: Sometimes I really think about the fact that I get discouraged from sewing because I can't make it perfect but fast fashion pump out stuff that you can't even call (properly) finished
+
+  - tags: []
+    date: "2024-07-04"
+    body: When we just go on and live "normally" we are actually abandoning each other. To stop abandoning and to stop being abandoned we need to act for each other. This is true with protesting our tax money going to the war machine, and true with masking against covid 19. <br> Caring (and doing) feels so difficult and "out of the way" because it isn't programmed into the system like extraction and oppressive hierarchies are. But we have to build the alternative world.
+
+  - tags: []
+    date: "2024-07-04"
+    body: Can we make what happened to Palestine, to the resistance happen to masking and learning up to date science covid? <br> Can people come and understand it and then support it with their whole chest & with action? Can we get that? <br> Or does it require too much inner work, too much deprogramming when it's covid?? you see what I'm talking about??
+
+  - tags: []
+    date: "2024-07-03"
+    body: the phenomenon of "women helps their hudsband/male partner in a major way that could/did hurt themselves and got dumped" is very interesting maybe I'll rant on it one day
+
+  - tags: []
+    date: "2024-07-02"
+    body: The way this society ruthlessly take take take anything it can from neurodivergent people and still don't see us as humans
+
+  - tags: []
+    date: "2024-07-02"
+    body: The attitude of "we can agree to disagree" *within* a marginalised community often comes from the same unwillingness to look deeper into WHY you disagree and just want surface peace/lack of obvious tension/conflict, that people can easily call out when it comes from a privilidged group/person onto said community. <br> It's giving privilege, it's giving aligning with the oppressor, it's giving  replicating the structures we claim to be taking down.
+
+  - tags: []
+    date: "2024-07-01"
+    body: The fact that this so called country is genocidal becomes very obvious (once again) when you try to go to work with a mask just to protect yourself and get fired on the spot. (not me)
+
+  - tags: []
+    date: "2024-07-01"
+    body: I want to believe "mask highly encouraged" can help, but I'm struggling to actually believe so because there are little evidence. I still mostly get "hiding behind the shield of 'I have asked masks HIGHLY ENCOURAGED'" vibes bc it doesn't feel like being covid safe is *actually* a priority, combines with other little telling details...
+
+  - tags: []
+    date: "2024-07-01"
+    body: I am finding... when we think of our neurodivergent traits or needs as "contradictory"... we are looking at it from a neurotypical perspective already. <br> It is because of the perspective and framing, that things look contradictory. they may not be "inherently contradictory".
+
+  - tags: []
+    date: "2024-06-30"
+    body: I think the expectation we have on ourselves to be completely consistent, and to be completely consistent in "getting better at this" can also come from a place of re-creating harmful hierarchy within ourselves, rather than the genuine(?) need to escalate. It's just like "healing is not linear", just like no to perfectionism (internalised capitalism).
+
+  - tags: []
+    date: "2024-06-27"
+    body: so guys are now saying stuff like "girl code and girl solidarit is blinding you"?? NOT GIRL CODE bc we called the behaviour in men to protect each other to keep benefiting from & uphold the patriarchy "boy/bro code"???? THE IRONY THE LACK OF SELF AWARENESS THE SELF VICTIMISATION
+
+  - tags: []
+    date: "2024-06-26"
+    body: I really don't want to monetise things ever. If I can gather ingredients, cook for people, host a dinner/gathering (while being covid safe!!!), meal prep for people, give lessons on cooking and other skills, host sharing circles or support circles, share my writings, ANYTHING, I don't wanna charge money for that!! there are so many reasons and I just don't. If I have something you want or need I'd just give it.
+
+  - tags: []
+    date: "2024-06-26"
+    body: I need to have an honest conversation about property/home ownership. Is it really ok if I don't redistribute it? But my parents really want a place here. This in my heart has become just about the contradiction of these 2
+
+  - tags: []
+    date: "2024-06-25"
+    body: In revolutionary circles I feel many people have a bit of an off understanding of this "my mental health vs movement" thing. And it's not our fault, it's the systems keeping us down and pitting us against each other for crumbs. May write about this in future
+
+  - tags: []
+    date: "2024-06-24"
+    body: (chickies death rant. fill later)
+
+  - tags: []
+    date: "2024-06-23"
+    body: Why can someone step (hard) on my foot, turn around look at me and be like "oopsie" *cute and pure and carefree smile* and just TURN BACK???? LET'S TALK ABOUT IT.
+
+  - tags: []
+    date: "2024-06-23"
+    body: (from reel) Interracial relationship for Asian people/as a Chinese person. Interesting topic
+
+  - tags: []
+    date: "2024-06-23"
+    body: Good points made about MA/building community/contributing. Not fear based. When people talk about "all out for Gaza... but don't burn yourself out" something deeper is often mising.
+
+  - tags: []
+    date: "2024-06-21"
+    body: CW SA rant. <br> Men "no one cares when our fellow men get r*ped by women??!! not fair!!!" <br> Men *write/direct/approve casual sa/harassment from women to men in media and be like "oooOooOoo" about it* <br> (casual sa in media ofc also include MEN TO WOMEN, they both uphold rape culture and objectifying women and victim blaming)
+
+  - tags: []
+    date: "2024-06-20"
+    body: > 
+        "What does putting the customer at the centre mean to you?" <br> It means when I'm a customer I'm supposed to be the most superior being because I make the capitalist loop of production complete, because of this I'm almost worshipped and put above other people that has different roles (like the salesperson/customer service, the "workers") at that point of the cycle (because I'm the main component). This is supposed to reward my participation and make me come back for more but it's actually only to distract from the fact that when the circle is complete, when I stop being a customer, I fall back to being the worker and I get friking exploited
 
