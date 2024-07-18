@@ -10,12 +10,12 @@ Just want to share when I have learned so far.
 
 - Started from real needs of people not being met and real harm people experienced
 - Legitimising and uplifting lived experience and lived wisdoms, while critically examining the trust we give to institutions and structures established without us
-- Holding power and people in power accountable - when you have power, you have responsibility. The higher the power disparity, the bigger the responsibility.
-- Build power outside of existing systems, instead of trying to gain power within - this doesn’t mean the 2nd kind of work is looked down upon (that depends on how each individual practice psych abolition, it’s not universal I think)
+- **Holding power and people in power accountable** - when you have power, you have responsibility. The higher the power disparity, the bigger the responsibility.
+- Build power outside of existing systems, instead of trying to gain power within - this doesn’t mean the 2nd kind of work is discouraged or looked down upon (that depends on how each individual practice psych abolition, it’s not universal I think)
 - Autonomy first
 - Forced care is not good care
 - Education, informed consent, and empowerment
-- People know the best about themselves, or can be informed and empowered to be the person that best know themselves (this is only due to intentional disempowerment and confusion thru the systems; I believe naturally/without outside influence, we do understand our experiences & ourselves; and without such a sick world, there won’t be so many things we experience that doesn’t make sense but we have to make sense somehow)
+- **People are expert of themselves**, or can be informed and empowered to be the expert of themselves (this is only due to intentional disempowerment and confusion thru the systems; I believe naturally/without outside influence, we do understand our experiences & ourselves; and without such a sick world, there won’t be so many things we experience that doesn’t make sense but we have to make sense somehow)
 - Peer expertise & peer care
 - Prevention more than reaction
 - Improving accessibility of care
@@ -33,18 +33,18 @@ Just want to share when I have learned so far.
 - An insult to any person in particular
 - An insult to honest people/workers who want to help others/improve others lives but are trapped in a system
 - Out of malicious intent towards anyone
-- Discount ALL work done in ANY psych capacity or institutions currently or any work that is not explicitly "abolitionist" - we just critically examine all these work. Academia have peer review and discussion sections, we are just doing the same from a different perspective, which may never to platformed by academia mainstream, which is why you don’t see it
+- **Discount ALL work done in ANY psych capacity or institutions** currently or any work that is not explicitly "abolitionist" - we just critically examine all these work. Academia have peer review and discussion sections, we are just doing the same from a different perspective, which may never to platformed by academia mainstream, which is why you don’t see it
 - Against any and all medication 
 - Against any and all in-patient care
-- Against giving people care or leave people without care just because current model is lacking or cause harm - leaving people without care isn’t what we want. We want to move people towards care that actually helps them. But I do agree sometimes carceral/deficiency based/dehumanising "care" can be very traumatising and should be avoided. It's tough to choose between retraumatising and/or dangerous care or no care (or as they call it, "harmful coping mechanisms") and that's the chocie many people face.
+- **Against giving people care or leave people without care** just because current model is lacking or cause harm - leaving people without care isn’t what we want. We want to move people towards care that actually helps them. But I do agree sometimes carceral/deficiency based/dehumanising "care" can be very traumatising and should be avoided. It's tough to choose between retraumatising and/or dangerous care or no care (or as they call it, "harmful coping mechanisms") and that's the chocie many people face.
 - Assert that all people are normal actually and no one needs care
 - Just something cool and "hip"
 - Just a political opinion/theory
-- Possible without dismantling broader structures of violence - because psych institutions and carceral "care" is intertwined with other supremacy systems and marginalisations caused by them. The downfall of colonialism, white supremacy, capitalism, and carceral/deficiency based/dehumanising psych work needs to happen in sync.
-- Impose views on psych survivors/other mad people - anyone who’s talking about their own view point certainly will try to present it in a "convincing" way, but that doesn’t mean we want to force anyone to agree or ridicule anyone who doesn’t agree/fully agree. It’s when psych practitioners harm us/community, we stand up and hold them accountable. From my perspective psych survivors/mad people/mentally ill people can understand themselves however they want. It’s the carers, the psych workers, and tbh any liberation workers who should always be mindful of how they are impacting community, and if the work they do actually harms community, to understand why that is and how to improve. 
+- **Possible without dismantling broader structures of violence** - because psych institutions and carceral "care" is intertwined with other supremacy systems and marginalisations caused by them. The downfall of colonialism, white supremacy, capitalism, and carceral/deficiency based/dehumanising psych work needs to happen in sync.
+- **Impose views on psych survivors/other mad people** - anyone who’s talking about their own view point certainly will try to present it in a "convincing" way, but that doesn’t mean we want to force anyone to agree or ridicule anyone who doesn’t agree/fully agree. It’s when psych practitioners harm us/community, we stand up and hold them accountable. From my perspective psych survivors/mad people/mentally ill people can understand themselves however they want. It’s the carers, the psych workers, and tbh any liberation workers who should always be mindful of how they are impacting community, and if the work they do actually harms community, to understand why that is and how to improve. 
 - Language policing/tone policing
 - Dreaming of alternatives; creative; think outside of the box; even if things aren't "proven"
-- Like activism in general, no one is "the voice" of psych abolition, and there’s not one way to do it. And probably no one can cater for everyone. - not "catering for" everyone doesn’t mean a free pass to hurt. Like I can "not cater to" Asian people but if I’m racist to Asian people, I’m still racist and causing harm.
+- Like activism in general, **no one is "the voice" of psych abolition**, and there’s not one way to do it. And probably no one can cater for everyone. - not "catering for" everyone doesn’t mean a free pass to hurt. Like I can "not cater to" Asian people but if I’m racist to Asian people, I’m still racist and causing harm.
 
 These points are the "ideal" I guess, but I do make mistakes and get confused at times when practicing it. I'm still pretty new to this and I'd very much like feedback and discussions so we can learn together.
 
