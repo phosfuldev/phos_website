@@ -4,14 +4,16 @@ author: Phos
 tags: [mental health, psych abolition]
 ---
 
-Just want to share when I have learned so far.
+Just want to share what I have learned so far.
+
+Lists are non-exhaustive.
 
 #### Psych abolition is:
 
 - Started from real needs of people not being met and real harm people experienced
 - Legitimising and uplifting lived experience and lived wisdoms, while critically examining the trust we give to institutions and structures established without us
 - **Holding power and people in power accountable** - when you have power, you have responsibility. The higher the power disparity, the bigger the responsibility.
-- Build power outside of existing systems, instead of trying to gain power within - this doesn’t mean the 2nd kind of work is discouraged or looked down upon (that depends on how each individual practice psych abolition, it’s not universal I think)
+- Build power outside of existing systems, in contrast to gaining power within - this doesn’t mean the 2nd kind of work is necessarily discouraged or looked down upon
 - Autonomy first
 - Forced care is not good care
 - Education, informed consent, and empowerment
@@ -36,7 +38,7 @@ Just want to share when I have learned so far.
 - **Discount ALL work done in ANY psych capacity or institutions** currently or any work that is not explicitly "abolitionist" - we just critically examine all these work. Academia have peer review and discussion sections, we are just doing the same from a different perspective, which may never to platformed by academia mainstream, which is why you don’t see it
 - Against any and all medication 
 - Against any and all in-patient care
-- **Against giving people care or leave people without care** just because current model is lacking or cause harm - leaving people without care isn’t what we want. We want to move people towards care that actually helps them. But I do agree sometimes carceral/deficiency based/dehumanising "care" can be very traumatising and should be avoided. It's tough to choose between retraumatising and/or dangerous care or no care (or as they call it, "harmful coping mechanisms") and that's the chocie many people face.
+- **Against giving people care or leave people without care** "just because current model is lacking" - leaving people without care isn’t what we want. We want to move people towards care that actually helps them, and we can create that for us. But I do agree sometimes carceral/deficiency based/dehumanising "care" can be very traumatising and should be avoided. It's tough to choose between retraumatising and/or dangerous care or no care (or as they call it, "harmful coping mechanisms") and that's the chocie many people face.
 - Assert that all people are normal actually and no one needs care
 - Just something cool and "hip"
 - Just a political opinion/theory
@@ -51,6 +53,8 @@ These points are the "ideal" I guess, but I do make mistakes and get confused at
 
 #### This vs that
 
+(The layout of this table only really works on mobile right now, apologies if you are viewing on desktop)
+
 | Current thing  | New thing |
 | -------- | ---------------------------------------------------- |
 | Psych hospitals | Peer respite (it’s a very new thing & there’s a few I’ve come to know in America; don’t know any on this continent) |
@@ -61,4 +65,4 @@ These points are the "ideal" I guess, but I do make mistakes and get confused at
 | Deferting expertise to doctors and trained "professionals" | Knowledge & skill sharing & legitimising in community, with people with lived experiences; Self identification is valid & doesn’t need to be proven to anyone |
 | Try to find "biological"/"brain difference" causes/foundations of disorders, try to draw clear lines; things are only "proven" until you find something in the brain | Rejects bioessentialism; social model of disability (however, it’s not anti science, and it's not denying the link of mental and physical. pls don't interpret things I didn't say out of this) |
 
-
+You can find links to some stuff mentioned in the right hand side in the [resources](https://phosworld.xyz/resources) page of this site. There you will also find more experienced advocates & people with a wide range of lived experiences of madness and harmful mental health "care".
