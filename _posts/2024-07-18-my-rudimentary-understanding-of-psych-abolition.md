@@ -23,6 +23,7 @@ Lists are non-exhaustive.
 - Improving accessibility of care
 - Intersectionality 
 - "Maladaptive coping mechanisms" "maladaptive behaviours" have roots in systems not the individual
+- Dreaming of alternatives; creative; think outside of the box; even if things aren't "proven"
 - Unlearning internalised ableism & saneism; critically examine what daily life/"normal" thing is actually rooted in ableism and saneism
 - Listening to the most multiple marginalised people & supporting them
 - Learning the history of mad resistance, mad survival and mad wisdom
@@ -45,7 +46,6 @@ Lists are non-exhaustive.
 - **Possible without dismantling broader structures of violence** - because psych institutions and carceral "care" is intertwined with other supremacy systems and marginalisations caused by them. The downfall of colonialism, white supremacy, capitalism, and carceral/deficiency based/dehumanising psych work needs to happen in sync.
 - **Impose views on psych survivors/other mad people** - anyone who’s talking about their own view point certainly will try to present it in a "convincing" way, but that doesn’t mean we want to force anyone to agree or ridicule anyone who doesn’t agree/fully agree. It’s when psych practitioners harm us/community, we stand up and hold them accountable. From my perspective psych survivors/mad people/mentally ill people can understand themselves however they want. It’s the carers, the psych workers, and tbh any liberation workers who should always be mindful of how they are impacting community, and if the work they do actually harms community, to understand why that is and how to improve. 
 - Language policing/tone policing
-- Dreaming of alternatives; creative; think outside of the box; even if things aren't "proven"
 - Like activism in general, **no one is "the voice" of psych abolition**, and there’s not one way to do it. And probably no one can cater for everyone. - not "catering for" everyone doesn’t mean a free pass to hurt. Like I can "not cater to" Asian people but if I’m racist to Asian people, I’m still racist and causing harm.
 
 These points are the "ideal" I guess, but I do make mistakes and get confused at times when practicing it. I'm still pretty new to this and I'd very much like feedback and discussions so we can learn together.
