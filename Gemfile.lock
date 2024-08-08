@@ -79,6 +79,7 @@ GEM
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     unicode-display_width (1.8.0)
+    wdm (0.2.0)
     webrick (1.7.0)
 
 PLATFORMS
@@ -88,6 +89,7 @@ PLATFORMS
 DEPENDENCIES
   eventmachine (= 1.2.7)!
   moonwalk!
+  wdm (>= 0.1.0)
 
 BUNDLED WITH
    2.5.13
