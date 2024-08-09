@@ -5,11 +5,6 @@ title: Resources
 
 This is going to be mainly Instagram accounts for a start but I hope to expand it as I grow less dependent on that platform and expand my use of the internet! Recommendations welcome.
 
-> (Smol note 1: The lists are sort of ordered but pls don't take any offence at the order! Also most of these lists are not meant to be exhaustive. Usually you can find more goodies in these people's following and story shares! Do some digging! )
-
-> (Smol note 2: sometimes I put people's names first, sometimes I put the account handle first, it's a bit random but if anyone mentioned here would like to be mentioned differently, pls let me know!)
-
-
 #### First Nations Orgs/peoples:  
 
 Black Peoples Union: [Website](https://www.blackpeoplesunion.org/) | [Instagram](https://www.instagram.com/blackpeoplesunion) | [Youtube](https://www.youtube.com/@blackpeoplesunion)  
@@ -30,16 +25,21 @@ Camp Sovereignty: [Instagram](https://www.instagram.com/campsovereignty)
 Aboiginal Tent Embassy: [Website](https://aboriginalembassy.com/) | [Instagram](https://www.instagram.com/aboriginaltentembassy) | [Facebook](https://www.facebook.com/atesovereignty)  
 
 
-#### Gaza Fundraising:  
+#### Gaza Fundraising and Aid:  
 
 Gaza Funds: [Website](https://gazafunds.com/) | [Instagram](https://www.instagram.com/gaza.funds)  
 Operation Olive Branch: [Instagram](https://www.instagram.com/operationolivebranch) | [List of funds](https://docs.google.com/spreadsheets/d/1vtMLLOzuc6GpkFySyVtKQOY2j-Vvg0UsChMCFst_WLA/htmlview)  
 Gaza Mutual Aid: [Instagram](https://www.instagram.com/gazamutualaid) | [Substack](https://gazamutualaid.substack.com/)  
+Palestinian Social Fund: [Instagram](https://www.instagram.com/palestiniansocialfund)  
 Connecting Humanity: [Website](https://www.gazaesims.com) | [Instagram](https://www.instagram.com/connectinghumanity_) | [e-sim Guide](https://gazaesims.com/esim-purchase-tutorial/)  
 Ibrahim For Gaza: [Instagram](https://www.instagram.com/ibrahimforgaza) | [PayPal](https://www.paypal.com/paypalme/essssraaa)  
 Melbourne Kindness Project: [Instagram](https://www.instagram.com/melbournekindnessproject)  
 Hibr (Tattoos for Palestine): [Instagram](https://www.instagram.com/hibrfalastin)  
-PARA Foundation: [Instagram](https://www.instagram.com/para.foundation)
+PARA Foundation: [Instagram](https://www.instagram.com/para.foundation)  
+Destash 4 Palestine: [Instagram](https://www.instagram.com/destash4palestine) - for crafters  
+Give for Gaza: [Instagram](https://www.instagram.com/giveforgaza) - Raffle  
+
+See end of this page for a list of projects and people that boosts gfm fundraisers
 
 
 #### More Mutual Aid (Local to so-called australia):
@@ -170,6 +170,8 @@ Post-Scarcity Podcast: [Instagram](https://www.instagram.com/postscarcitypod)
 
 #### More pages/people that boosts Gaza fundraisers:
 
+Gaza Funds: [Website](https://gazafunds.com/) | [Instagram](https://www.instagram.com/gaza.funds)  
+Operation Olive Branch: [Instagram](https://www.instagram.com/operationolivebranch) | [List of funds](https://docs.google.com/spreadsheets/d/1vtMLLOzuc6GpkFySyVtKQOY2j-Vvg0UsChMCFst_WLA/htmlview)  
 Banyule Palestine Action Group: [Instagram](https://www.instagram.com/banyulepalestineactiongroup)  
 rosie.mutual.aid: [Instagram](https://www.instagram.com/rosie.mutual.aid)  
 The Pali Pals: [Instagram](https://www.instagram.com/pali.pals)  
@@ -178,12 +180,13 @@ Gofundme Gaza: [Instagram](https://www.instagram.com/gofundme_gazza)
 Youth For Falasteen: [Instagram](https://www.instagram.com/youthforfalasteen)  
 The perinatal Project: [Instagram](https://www.instagram.com/perinatalproject)  
 Direct Your Tax: [Instagram](https://www.instagram.com/direct_your_tax)  
-Uplift Gaza: [Instagram](https://www.instagram.com/uplift.gaza)  
+Uplift Gaza: [Instagram](https://www.instagram.com/uplift.gaza) - new funds each week  
 Nillumbik4Palestine: [Instagram](https://www.instagram.com/nillumbik4palestine)
 
-[mohamedchamas_](https://www.instagram.com/mohamedchamas_) - they have a list and a group chat to "adopt" families
+[mohamedchamas_](https://www.instagram.com/mohamedchamas_) - they have a list of fundraisers and a group chat to "adopt" families  
 
-[carladrawz](https://www.instagram.com/carladrawz) - can make graphic and boost sometimes
+[carladrawz](https://www.instagram.com/carladrawz) - can make graphic and boost sometimes  
+[the.gauntlets](https://www.instagram.com/the.gauntlets) - makes comics to boost
 
 other:  
 [gazadirect2familyaidsource](https://www.instagram.com/gazadirect2familyaidsource)  
