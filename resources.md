@@ -39,6 +39,7 @@ Connecting Humanity: [Website](https://www.gazaesims.com) | [Instagram](https://
 Ibrahim For Gaza: [Instagram](https://www.instagram.com/ibrahimforgaza) | [PayPal](https://www.paypal.com/paypalme/essssraaa)  
 Melbourne Kindness Project: [Instagram](https://www.instagram.com/melbournekindnessproject)  
 Hibr (Tattoos for Palestine): [Instagram](https://www.instagram.com/hibrfalastin)  
+PARA Foundation: [Instagram](https://www.instagram.com/para.foundation)
 
 
 #### More Mutual Aid (Local to so-called australia):
@@ -54,7 +55,7 @@ Close Don Dale: [Instagram](https://www.instagram.com/close.don.dale)
 Sisters Inside: [Website](https://sistersinside.com.au/) | [Instagram](https://www.instagram.com/sisters_inside_inc)  
 
 
-#### More Mutual Aid initiatives (International, non-aus):
+#### More Mutual Aid (International, non-aus):
 
 If you need help and you are not in so-called aus, feel free to reach out to any of them!! 
 
@@ -143,13 +144,9 @@ The Auti Anthology: [Instagram](https://www.instagram.com/auti_anthology)
 
 Note: they're last but definitely not the least!! Just don't really fit into the above categories.
 
-Free public transport for people with certain mental health conditions - [PTV](https://www.ptv.vic.gov.au/tickets/myki/concessions-and-free-travel/access-travel-pass) (you would need a doctor or psychologist or OT to fill out some questions; a certain diagnosis is not required)
-
 Sudan Updates: [Instagram](https://www.instagram.com/sudan.updates)  
 Justice Mayanija (queer refugees located in Kakuma, Kenya): [Instagram](https://www.instagram.com/justicemayanja) | [GoFundMe](https://gofund.me/bd6c766d)  
 Sam Petersen: [Instagram](https://www.instagram.com/sampetercine) | [Website](https://www.sampetersen.com.au/)  
-
-[Why Misogynists Make Great Informants](https://truthout.org/articles/why-misogynists-make-great-informants/) MUST READ!!!!!
 
 badschoolbadschool: [Instagram](https://www.instagram.com/badschoolbadschool/)  
 Yejin Lee: [Instagram](https://www.instagram.com/yejin_lee) (they are private for the next couple of months but look out for the public)  
@@ -157,5 +154,48 @@ Kiing Curry (bespokecurry): [Instagram](https://www.instagram.com/bespokecurry)
 Matt Chun: [Instagram](https://www.instagram.com/matt.chun)  
 Rakey (anti SAlt propaganda* & more): [Instagram](https://www.instagram.com/socialistalternative.melb) (as a fellow seeing-patterns-at-times-people-don't-want-to-acknoledge-them-yet autistic I request yall to be gentle with them!!! they deserve gentleness!!)
 
-Post-Scarcity Podcast: [Instagram](https://www.instagram.com/postscarcitypod)  
 Li An Phoa (Drinkable Rivers): [Instagram](https://www.instagram.com/drinkablerivers)  
+
+#### Resources & info
+
+Free public transport for people with certain mental health conditions - [PTV](https://www.ptv.vic.gov.au/tickets/myki/concessions-and-free-travel/access-travel-pass) (you would need a doctor or psychologist or OT to fill out some questions; a certain diagnosis is not required)
+
+
+#### Single articles, podcasts, video essays
+
+[Why Misogynists Make Great Informants](https://truthout.org/articles/why-misogynists-make-great-informants/) MUST READ!!!!!
+
+Post-Scarcity Podcast: [Instagram](https://www.instagram.com/postscarcitypod) 
+
+
+#### More pages/people that boosts Gaza fundraisers:
+
+Banyule Palestine Action Group: [Instagram](https://www.instagram.com/banyulepalestineactiongroup)  
+rosie.mutual.aid: [Instagram](https://www.instagram.com/rosie.mutual.aid)  
+The Pali Pals: [Instagram](https://www.instagram.com/pali.pals)  
+Bees and Watermelons: [Instagram](https://www.instagram.com/beesandwatermelons)  
+Gofundme Gaza: [Instagram](https://www.instagram.com/gofundme_gazza)  
+Youth For Falasteen: [Instagram](https://www.instagram.com/youthforfalasteen)  
+The perinatal Project: [Instagram](https://www.instagram.com/perinatalproject)  
+Direct Your Tax: [Instagram](https://www.instagram.com/direct_your_tax)  
+Uplift Gaza: [Instagram](https://www.instagram.com/uplift.gaza)  
+Nillumbik4Palestine: [Instagram](https://www.instagram.com/nillumbik4palestine)
+
+[mohamedchamas_](https://www.instagram.com/mohamedchamas_) - they have a list and a group chat to "adopt" families
+
+[carladrawz](https://www.instagram.com/carladrawz) - can make graphic and boost sometimes
+
+other:  
+[gazadirect2familyaidsource](https://www.instagram.com/gazadirect2familyaidsource)  
+[donation.deaf.gaza](https://www.instagram.com/donation.deaf.gaza)  
+[steadfast4gaza](https://www.instagram.com/steadfast4gaza)  
+[aussies4humanity](https://www.instagram.com/aussies4humanity)  
+[the_bridge.community](https://www.instagram.com/the_bridge.community)  
+[rachel.nixole](https://www.instagram.com/rachel.nixole)  
+[neziolliam](https://www.instagram.com/neziolliam)  
+[sunnymoomusic](https://www.instagram.com/sunnymoomusic)  
+[cryptesss](https://www.instagram.com/cryptesss)  
+[cupocoffee](https://www.instagram.com/cupocoffee)  
+[whole_heart_yyc](https://www.instagram.com/whole_heart_yyc)  
+[galpalal4justice](https://www.instagram.com/galpalal4justice)    
+[hairbywhosjoni](https://www.instagram.com/hairbywhosjoni)
