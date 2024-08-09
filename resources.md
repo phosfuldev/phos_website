@@ -31,6 +31,7 @@ Gaza Funds: [Website](https://gazafunds.com/) | [Instagram](https://www.instagra
 Operation Olive Branch: [Instagram](https://www.instagram.com/operationolivebranch) | [List of funds](https://docs.google.com/spreadsheets/d/1vtMLLOzuc6GpkFySyVtKQOY2j-Vvg0UsChMCFst_WLA/htmlview)  
 Gaza Mutual Aid: [Instagram](https://www.instagram.com/gazamutualaid) | [Substack](https://gazamutualaid.substack.com/)  
 Palestinian Social Fund: [Instagram](https://www.instagram.com/palestiniansocialfund)  
+Dahnoun Mutual Aid: [Instagram](https://www.instagram.com/dahnounmutualaid)  
 Connecting Humanity: [Website](https://www.gazaesims.com) | [Instagram](https://www.instagram.com/connectinghumanity_) | [e-sim Guide](https://gazaesims.com/esim-purchase-tutorial/)  
 Ibrahim For Gaza: [Instagram](https://www.instagram.com/ibrahimforgaza) | [PayPal](https://www.paypal.com/paypalme/essssraaa)  
 Melbourne Kindness Project: [Instagram](https://www.instagram.com/melbournekindnessproject)  
@@ -40,6 +41,13 @@ Destash 4 Palestine: [Instagram](https://www.instagram.com/destash4palestine) - 
 Give for Gaza: [Instagram](https://www.instagram.com/giveforgaza) - Raffle  
 
 See end of this page for a list of projects and people that boosts gfm fundraisers
+
+
+#### Other International Crisis Aid:
+
+Sudan Online Space: [Instagram](https://www.instagram.com/sudan.online_space)  
+Khartoum Aid Kitchen (Sudan): [Instagram](https://www.instagram.com/khartoum_aid_kitchen)  
+Friends of the Congo: [Instagram](https://www.instagram.com/congofriends)  
 
 
 #### More Mutual Aid (Local to so-called australia):
@@ -60,7 +68,9 @@ Sisters Inside: [Website](https://sistersinside.com.au/) | [Instagram](https://w
 If you need help and you are not in so-called aus, feel free to reach out to any of them!! 
 
 Renn: [Instagram](https://www.instagram.com/perennialautonomy)  
-
+River: [Intagram](https://www.instagram.com/river11.11) [Backup Insta](https://www.instagram.com/go.with.the.flow22)  
+Boudia: [Instagram](https://www.instagram.com/punkwitchdiviner)  
+mx: [Instagram](https://www.instagram.com/mxmaxursax)  
 
 #### Covid educators and activists:
 
@@ -183,7 +193,7 @@ Direct Your Tax: [Instagram](https://www.instagram.com/direct_your_tax)
 Uplift Gaza: [Instagram](https://www.instagram.com/uplift.gaza) - new funds each week  
 Nillumbik4Palestine: [Instagram](https://www.instagram.com/nillumbik4palestine)
 
-[mohamedchamas_](https://www.instagram.com/mohamedchamas_) - they have a list of fundraisers and a group chat to "adopt" families  
+[mohamedchamas_](https://www.instagram.com/mohamedchamas_) - they have a list of fundraisers and a group chat to "adopt" families and discuss fundraising  
 
 [carladrawz](https://www.instagram.com/carladrawz) - can make graphic and boost sometimes  
 [the.gauntlets](https://www.instagram.com/the.gauntlets) - makes comics to boost
@@ -200,5 +210,5 @@ other:
 [cryptesss](https://www.instagram.com/cryptesss)  
 [cupocoffee](https://www.instagram.com/cupocoffee)  
 [whole_heart_yyc](https://www.instagram.com/whole_heart_yyc)  
-[galpalal4justice](https://www.instagram.com/galpalal4justice)    
-[hairbywhosjoni](https://www.instagram.com/hairbywhosjoni)
+[galpalal4justice](https://www.instagram.com/galpalal4justice)  
+[hairbywhosjoni](https://www.instagram.com/hairbywhosjoni)  
