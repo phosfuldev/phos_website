@@ -3,7 +3,8 @@ layout: post
 title: Resources
 ---
 
-This is going to be mainly Instagram accounts for a start but I hope to expand it as I grow less dependent on that platform and expand my use of the internet! Recommendations welcome.
+The first section is mainly Instagram accounts, later in the page there will be more other sources xx  
+Recommendations welcome.
 
 #### First Nations Orgs/peoples:  
 
@@ -40,7 +41,7 @@ PARA Foundation: [Instagram](https://www.instagram.com/para.foundation)
 Destash 4 Palestine: [Instagram](https://www.instagram.com/destash4palestine) - for crafters  
 Give for Gaza: [Instagram](https://www.instagram.com/giveforgaza) - Raffle  
 
-See end of this page for a list of projects and people that boosts gfm fundraisers
+See end of this page for a list of more projects and people that boosts gfm fundraisers.
 
 
 #### Other International Crisis Aid:
@@ -71,6 +72,7 @@ Renn: [Instagram](https://www.instagram.com/perennialautonomy)
 River: [Intagram](https://www.instagram.com/river11.11) [Backup Insta](https://www.instagram.com/go.with.the.flow22)  
 Boudia: [Instagram](https://www.instagram.com/punkwitchdiviner)  
 mx: [Instagram](https://www.instagram.com/mxmaxursax)  
+(the one that commented will support mukta)
 
 #### Covid educators and activists:
 
@@ -84,6 +86,8 @@ Long COVID Justice: [Instagram](https://www.instagram.com/longcovidjustice)
 COVID Conscious Coalition: [Instagram](https://www.instagram.com/covidconsciouscoalition)  
 Mask Together America: [Instagram](https://www.instagram.com/masktogetheramerica) | [Website](https://masktogetheramerica.org/)  
 Berlin Buyers Club: [Instagram](https://www.instagram.com/berlin_buyers_club) | [Website](https://www.berlinbuyersclub.com/)  
+s something
+riotous_roots
 
 There are so much more than what's in this list, reach out if you are looking for anything specific. These pages' linktree are also great resources.
 
@@ -107,14 +111,16 @@ Pat.radical.therapist: [Instagram](https://www.instagram.com/pat.radical.therapi
 crutches and spice: [Instagram](https://www.instagram.com/crutches_and_spice) (she's also on tiktok! But I don't use tiktok)  
 asiatu.coach (Asiatu Lawoyin): [Instagram](https://www.instagram.com/asiatu.coach)  
 neuroabolition: [Instagram](https://www.instagram.com/neuroabolition)  
-siyá (drrckqvdo): [Instagram](https://www.instagram.com/drrckqvdo)  
-Candice Alaska: [Instagram](https://www.instagram.com/candicealaska)  
+siyá/Derrick (drrckqvdo): [Instagram](https://www.instagram.com/drrckqvdo)  
+Candice Alaska: [Instagram](https://www.instagram.com/candicealaska) | Tubmlr | website  
 psychosis pso-sitivity: [Instagram](https://www.instagram.com/psychosispsositivity)  
 Madness is radical (Nicole): [Instagram](http://www.instagram.com/madnessisradical)  
 spectaculaur thoughts (Laurel Lilith): [Instagram](http://www.instagram.com/spectaculaurthoughts)  
 Neuromancers: [Instagram](https://www.instagram.com/neuromancers_)  
+stronger U
+embrace.ambiguity
 
-This list will keep growing in the coming days!!  
+This list is still a work in progress!!  
 
 
 #### liberatory mental health care:
@@ -128,14 +134,14 @@ Decolonizing therapy (Dr. Jennifer Mullan): [Instagram](http://www.instagram.com
 Kai Cheng Thom: [Instagram](http://www.instagram.com/kaichengthom)  
 Leah Manaema: [Instagram](http://www.instagram.com/co_cu1tur3)  
 Alt2Su Naarm: [Instagram](http://www.instagram.com/alt2su.naarm)  
-Call Bubbie: [Instagram](http://www.instagram.com/callbubbie)  
+alt2su blackfullas
 Inclusive Therapists: [Instagram](http://www.instagram.com/inclusivetherapists)  
 softcore_trauma (Margeaux Feldman): [Instagram](http://www.instagram.com/softcore_trauma)  
 the suicide doula: [Instagram](http://www.instagram.com/the_suicidedoula)  
 cait.deatheducation: [Instagram](https://www.instagram.com/cait.deatheducation)  
 Aware Care Library (Created by Cait): [Website](https://www.awarecarelibrary.com) | [Instagram](http://www.instagram.com/awarecarelibrary) 
 
-This list will keep growing in the coming days!!  
+This list is still a work in progress!!  
 
 
 #### autistic community:
@@ -148,6 +154,7 @@ Neurodivergent Researcher: [Instagram](https://www.instagram.com/neurodivergent_
 tendingpaths (Katy): [Instagram](https://www.instagram.com/tendingpaths) (this is the person that made the gifted venn diagram, iykyk)  
 Neurokinection (Jess): [Instagram](https://www.instagram.com/neurokinection)  
 The Auti Anthology: [Instagram](https://www.instagram.com/auti_anthology)  
+autistic as fuxx
 
 
 #### Other cool things/people: 
@@ -159,23 +166,31 @@ Justice Mayanija (queer refugees located in Kakuma, Kenya): [Instagram](https://
 Sam Petersen: [Instagram](https://www.instagram.com/sampetercine) | [Website](https://www.sampetersen.com.au/)  
 
 badschoolbadschool: [Instagram](https://www.instagram.com/badschoolbadschool/)  
-Yejin Lee: [Instagram](https://www.instagram.com/yejin_lee) (they are private for the next couple of months but look out for the public)  
+Yejin Lee: [Instagram](https://www.instagram.com/yejin_lee)   
 Kiing Curry (bespokecurry): [Instagram](https://www.instagram.com/bespokecurry)  
 Matt Chun: [Instagram](https://www.instagram.com/matt.chun)  
 Rakey (anti SAlt propaganda* & more): [Instagram](https://www.instagram.com/socialistalternative.melb) (as a fellow seeing-patterns-at-times-people-don't-want-to-acknoledge-them-yet autistic I request yall to be gentle with them!!! they deserve gentleness!!)
 
 Li An Phoa (Drinkable Rivers): [Instagram](https://www.instagram.com/drinkablerivers)  
 
+
+-- instagram accounts section over --  
+
+
 #### Resources & info
 
 Free public transport for people with certain mental health conditions - [PTV](https://www.ptv.vic.gov.au/tickets/myki/concessions-and-free-travel/access-travel-pass) (you would need a doctor or psychologist or OT to fill out some questions; a certain diagnosis is not required)
 
 
-#### Single articles, podcasts, video essays
+#### Podcasts, video essays, blogs, and single articles
 
 [Why Misogynists Make Great Informants](https://truthout.org/articles/why-misogynists-make-great-informants/) MUST READ!!!!!
 
 Post-Scarcity Podcast: [Instagram](https://www.instagram.com/postscarcitypod) 
+
+[Website](https://biyuti.com/blog/)
+
+[Zine - Untying the knot](https://libcom.org/library/untying-the-knot) (apparently this link doesn't work but im sure i can find it right)
 
 
 #### More pages/people that boosts Gaza fundraisers:
@@ -183,7 +198,6 @@ Post-Scarcity Podcast: [Instagram](https://www.instagram.com/postscarcitypod)
 Gaza Funds: [Website](https://gazafunds.com/) | [Instagram](https://www.instagram.com/gaza.funds)  
 Operation Olive Branch: [Instagram](https://www.instagram.com/operationolivebranch) | [List of funds](https://docs.google.com/spreadsheets/d/1vtMLLOzuc6GpkFySyVtKQOY2j-Vvg0UsChMCFst_WLA/htmlview)  
 Banyule Palestine Action Group: [Instagram](https://www.instagram.com/banyulepalestineactiongroup)  
-rosie.mutual.aid: [Instagram](https://www.instagram.com/rosie.mutual.aid)  
 The Pali Pals: [Instagram](https://www.instagram.com/pali.pals)  
 Bees and Watermelons: [Instagram](https://www.instagram.com/beesandwatermelons)  
 Gofundme Gaza: [Instagram](https://www.instagram.com/gofundme_gazza)  
@@ -193,12 +207,14 @@ Direct Your Tax: [Instagram](https://www.instagram.com/direct_your_tax)
 Uplift Gaza: [Instagram](https://www.instagram.com/uplift.gaza) - new funds each week  
 Nillumbik4Palestine: [Instagram](https://www.instagram.com/nillumbik4palestine)
 
+rosie.mutual.aid: [Instagram](https://www.instagram.com/rosie.mutual.aid)  
+
 [mohamedchamas_](https://www.instagram.com/mohamedchamas_) - they have a list of fundraisers and a group chat to "adopt" families and discuss fundraising  
 
 [carladrawz](https://www.instagram.com/carladrawz) - can make graphic and boost sometimes  
 [the.gauntlets](https://www.instagram.com/the.gauntlets) - makes comics to boost
 
-other:  
+other individuals: (pls check their bios or latest updates as individual capacity can fluctuate)  
 [gazadirect2familyaidsource](https://www.instagram.com/gazadirect2familyaidsource)  
 [donation.deaf.gaza](https://www.instagram.com/donation.deaf.gaza)  
 [steadfast4gaza](https://www.instagram.com/steadfast4gaza)  
@@ -212,3 +228,5 @@ other:
 [whole_heart_yyc](https://www.instagram.com/whole_heart_yyc)  
 [galpalal4justice](https://www.instagram.com/galpalal4justice)  
 [hairbywhosjoni](https://www.instagram.com/hairbywhosjoni)  
+
+Let me know if I should add more!
