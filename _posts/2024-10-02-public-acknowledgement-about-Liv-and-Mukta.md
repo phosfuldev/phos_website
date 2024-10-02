@@ -4,7 +4,7 @@ author: Phos and Mukta
 tags: []
 ---
 
-This is a copy/archive of an instagram post I (and Mukta) made (well, technically 2 posts, because it was too long), with some parts slightly edited for the website reading experience, and even more details that we couldn't add to the post itself - "reciepts", so to say.  
+This is a copy/archive of an instagram post I (and Mukta) made (well, technically 2 posts, because it was too long), with some parts slightly edited for the website reading experience, and even more details that we couldn't add to the post itself - "reciepts", so to say - to the end.  
 
 It also serves as a screen reader friendly version of the post!  
 
@@ -37,64 +37,64 @@ Mukta has sent a resistance poem with explicit imagery to Liv without preface or
 
 Liv is angry about recieving and being made to read what Mukta sent and blocked Mukta soon after. By the time Mukta saw the messages and tried to communicate further and apologise they found they were blocked.
 
-  ##### The poem
+##### The poem
 
-  **Please engage mindfully or skip this part if you need to.**  
+**Please engage mindfully or skip this part if you need to.**  
 
-  Sitting on your high chair  
-  Plush chair  
-  you tell me  
-  You'll be gentle  
-  You'll take it slow  
-  y'all be gentle  
-  Y'all be slow  
-  different chair  
-  different height  
-  y'all be gentle  
-  y'all take it slow  
-  and you think it's a gift  
-  a token  
-  a key  
-  a card  
-  oh she this oh she that  
-  tell her I'm understanding  
-  I'll be gentle I'll take it slow  
-  I nod I nod until I cannot  
-  I smile even blush until I cannot  
-  you never get it do you  
-  fuck your gentle fuck your slow  
-  I'll burn your chair and do it rough  
-  I'll teach you all dick -taking is the same  
-  and do it rough  
-  I'll teach you until you can nod  
-  a knife is a knife gentle or not  
-  I'd ask you are you scared babygirl  
-  if I were to shove this knife into your ass it would take you so gentle  
-  I'd take it slow  
-  or whatever way you want  
-  plenty choices  
-  Your holes your choice  
-  the knife always on the table  
-  what you say  
-  call it love making?  
-  But you wouldn't get it  
-  all dick-taking is the same  
-  to you hate and resistance are the same  
-  you say violence is violence  
-  so when I burn it all  
-  in the end  
-  I'd be so gentle  
-  I'd take it slow  
-  destroy the constructs of a- dick  
-  teach you not all violence is the same  
-  teach you my resistance is not your hate  
-  teach you how this gentle this slow is a violence  
-  teach you how this resistance this fire this knife is me not letting this kill me  
-  tell y'all  
-  I'd never be so gentle  
-  never take it slow  
+Sitting on your high chair  
+Plush chair  
+you tell me  
+You'll be gentle  
+You'll take it slow  
+y'all be gentle  
+Y'all be slow  
+different chair  
+different height  
+y'all be gentle  
+y'all take it slow  
+and you think it's a gift  
+a token  
+a key  
+a card  
+oh she this oh she that  
+tell her I'm understanding  
+I'll be gentle I'll take it slow  
+I nod I nod until I cannot  
+I smile even blush until I cannot  
+you never get it do you  
+fuck your gentle fuck your slow  
+I'll burn your chair and do it rough  
+I'll teach you all dick -taking is the same  
+and do it rough  
+I'll teach you until you can nod  
+a knife is a knife gentle or not  
+I'd ask you are you scared babygirl  
+if I were to shove this knife into your ass it would take you so gentle  
+I'd take it slow  
+or whatever way you want  
+plenty choices  
+Your holes your choice  
+the knife always on the table  
+what you say  
+call it love making?  
+But you wouldn't get it  
+all dick-taking is the same  
+to you hate and resistance are the same  
+you say violence is violence  
+so when I burn it all  
+in the end  
+I'd be so gentle  
+I'd take it slow  
+destroy the constructs of a- dick  
+teach you not all violence is the same  
+teach you my resistance is not your hate  
+teach you how this gentle this slow is a violence  
+teach you how this resistance this fire this knife is me not letting this kill me  
+tell y'all  
+I'd never be so gentle  
+never take it slow  
 
-  ##### (end)  
+##### (end)  
 
 (Can I just say, damn the more I read this poem the more I fall in love with it...)  
 
@@ -268,7 +268,7 @@ This incident cannot be reduced to only a trauma response for this reason. That 
 
 4. community and movement NEEDS open discussions, disagreements, to go forward. Also, when someone cuts someone off, when “drama” happens, notice most of the time who still have access to community support and spaces regardless what happened, and who now needs to tiptoe to get support (material or emotional).  
 
-These “lessons” points I have seen many people like [Butter](), [Asiatu](), [Candice](), [Nat]() talk about, just recently, and many others over time. Just giving credit where credit is due!
+These “lessons” points I have seen many people like [Butter](https://www.instagram.com/buttereffectunplugged), [Asiatu](https://www.instagram.com/asiatu.coach), [Candice](https://www.instagram.com/candicealaska), [Nat](https://www.instagram.com/namaca___) talk about, just recently, and many others over time. Just giving credit where credit is due!
 
 We can all use these broader points to reflect how we are going to deal with mistakes and repair. I'm not going to be super specific here but I'm happy to elaborate if people want.  
 
@@ -339,12 +339,13 @@ In chronological order, including the one posted already in main article.
 
 #### Appendix 2 - some DMs that was mentioned in the post
 
-![Screenshot of Liv's messages to Mukta. Messages from Liv says: 1. "WTF? Why did you send me this?" 2. "This is incredibly violent and you have sent it to me without my consent. Is it intended to be directed towards me? I'm about two seconds from blocking you after receiving this so please explain yourself." Mukta then replies "It's a poem I wrote, abt/against gendered violence/misogyny. I read one of your post recently and I shared this hoping it would give you some power, as in giving my solidarity".](/assets/images/screenshot_Liv_to_Mukta.jpg)  
+![Screenshot of Liv's messages to Mukta. Messages from Liv says: 1. "WTF? Why did you send me this?" 2. "This is incredibly violent and you have sent it to me without my consent. Is it intended to be directed towards me? I'm about two seconds from blocking you after receiving this so please explain yourself." Mukta then replies "It's a poem I wrote, abt/against gendered violence/misogyny. I read one of your post recently and I shared this hoping it would give you some power, as in giving my solidarity".](/assets/images/Screenshot_Liv_to_Mukta.jpg)  
 
-![Screenshot of my messages to Liv. I replies to their comment: 1. "thanks for highlighting, I read all just now" 2. "I think you're right they should have given context and or content warning, and i understand you being extremely upset" 3. "they actually told me about this as well so they are going to (without me telling) to be better about content warnings!" 4. "I think you posting their account which is the only way they have found some community, and material support, is going to hurt them in both of these ways. it's your choice to post it and you probably don't need me to tell you the above but I think it's a bit like you wanting to punish them?"](/assets/images/screenshot_me_to_Liv.jpg)  
+![Screenshot of my messages to Liv. I replies to their comment: 1. "thanks for highlighting, I read all just now" 2. "I think you're right they should have given context and or content warning, and i understand you being extremely upset" 3. "they actually told me about this as well so they are going to (without me telling) to be better about content warnings!" 4. "I think you posting their account which is the only way they have found some community, and material support, is going to hurt them in both of these ways. it's your choice to post it and you probably don't need me to tell you the above but I think it's a bit like you wanting to punish them?"](/assets/images/Screenshot_me_to_Liv.jpg)  
 
 I did also send another message that's like "I'm going to sleep now so I may reply late" in the same day, and a few days later another message asking if Liv still wants to talk. I don't know when I was blocked so I don't know if they saw those messages.  
 
-
+<br>
+<br>
 
 
