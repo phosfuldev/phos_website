@@ -15,20 +15,19 @@ Mukta said in comments "And yes I should have asked or given a warning/note at l
 I also want to say, there was many things to be addressed in the original post. Me not talking about the above in detail being read as "glossing over" is a biased judgement.
 
 Now let's get on with it. This current, updated blog post have de-identified Liv, included my little "response post", and added a new section of further analysis, guided by comments on the original instagram post.  
-There will be another post for only the comments and response.
+There is [another post](https://phosworld.xyz/public-acknowledgement-about-liv-and-mukta-documenting-and-responding-to-comments) for only the comments and response.
 
 Images have alt text.
 
 
-### Table of contents
-- [The Original post](#original-post)
-- [First quick response post](#first-quick-response-post)
-- [General Analysis of Comments](#gen-analysis-of-comments)
+### Table of Contents:
+* This will become a table of contents
+{:toc}
 
 
-### [The Original post (posted to the public on 2024-10-02 (AEST))](#original_post)
+### [The Original post](#original-post)
 
--- Note: This section is the unedited version of original blog post. (Unedited except screenshots) --
+-- Note: This section is the unedited version of original blog post (posted to the public on 2024-10-02 (AEST)) (Unedited except screenshots) --
 -- At this point, the original *instagram* posts have been deleted to remove identifying information. --
 -- It will be reposted on instagram but not with all the original content, and I will be telling folks that the website still has all things unedited and come the website especially if one wish to comment on things. --
 
@@ -122,7 +121,7 @@ tell y'all
 I'd never be so gentle  
 never take it slow  
 
-##### (end)  
+**(end)**  
 
 (Can I just say, damn the more I read this poem the more I fall in love with it...)  
 
@@ -373,7 +372,7 @@ In chronological order, including the one posted already in main article.
 
 I did also send another message that's like "I'm going to sleep now so I may reply late" in the same day, and a few days later another message asking if Liv still wants to talk. I don't know when I was blocked so I don't know if they saw those messages.  
 
-
+<br>
 
 
 ### [First quick response post](#first-quick-response-post)
@@ -471,7 +470,7 @@ I'm glad some communication came from the original post, so that now we can addr
 -- the end! --
 
 
-### [General Analysis of comments](#gen-analysis-of-comments)
+### [General Analysis of Comments](#gen-analysis-of-comments)
 
 These general analysis is here because it may be helpful to ANYONE. It's anything that didn't fit into the "quick post"/previous section, as I wanted to get the most important parts out as soon as possible.
 
