@@ -475,18 +475,18 @@ I'm glad some communication came from the original post, so that now we can addr
 
 These general analysis is here because it may be helpful to ANYONE. It's anything that didn't fit into the "quick post"/previous section, as I wanted to get the most important parts out as soon as possible.
 
-<br>
 
 - We said in the post that "because Liv posted about Mukta in public, so a public acknowledgement should be done".  
+
 We were told by the comments that it was indeed done.
 Hun? We didn't know.  
 
-No one was gonna tell Mukta or me **when** that happened either, do yall really think that's not important? Are we supposed to find that information somehow by ourselves? Liv proactively making that acknoledgement by realising the mistake themselves (or with supportive people to process together etc), vs ONLY doing it after PERCEIVED PRESSURE is completely different. Omitting that to shape YOUR NARRIATIVE is manipulative.  
+No one was gonna tell Mukta or me **when** that happened either, do yall really think that's not important? Are we supposed to find that information somehow by ourselves? Liv proactively making that acknowledgement by realising the mistake themselves (or with supportive people to process together etc), vs ONLY doing it after PERCEIVED PRESSURE is completely different. Omitting that to shape YOUR NARRIATIVE is manipulative.  
 
 And regardless of when Liv was not proactive because WHENEVER it was posted, it didn't get to the person that __needed to see/know it the most__. It is performative.  
-Anyone watching, DON"T DO THIS. activism is not for your private self improvement.  
+Anyone watching, DON'T DO THIS. activism is not for your private self improvement.  
 
-But, we are accused of "taking it too far", just because we posted publicly, pointed out the fact that Liv haven't done a public acknowledgement (TO OUR KNOWLEDGE) and we think it should be done.  
+But, we are accused of "taking it too far", just because we posted publicly, pointed out the fact that Liv haven't done a public acknowledgement (TO OUR KNOWLEDGE) and we think it should be done. (and dared to analyse how whiteness was a part of this)  
 Me posting the public post may be the sole reason Liv acknowledged their harm, at all.  
 
 If you only look at the commentor's attitudes, is it as if Liv already apologised way ahead of time, and we are only doing something completely unneccesary by posting to ask for the thing that was already done. And of course we should have known about it without anyone being proactive about telling us, that's our fault only. (literally trying to rewrite reality again)
@@ -538,7 +538,7 @@ Do you care about Mukta's humanity? do you believe Mukta as much as you believe 
 You can "conclude" "assume" Mukta doesn't have good intentions but when I tell you via my analysis that when I look at X behaviours, it seems Liv may not have good inentions, yall can't understand that. Yall would turn around and say "also, intention isn't everything."  
 if you think Liv's intention holds weight and you don't treat Mukta's intention the same, there's a double standard. I'm not saying you *should* or *shouldn't* see intention in a certain way, just it needs to be consistent and not applied differently to your friend vs a stranger(*), a person with white power vs a person without.  
 
-Do you want Mukta to do some specific action? yall keep saying Mukta "needs to take accountability" __as if they didn't__, but they did, and the way that they did, isn't satisfactory. So is there something specific yall want them to do?
+Do you want Mukta to do some specific action? yall keep saying Mukta "needs to take accountability" __as if they didn't__, but they did, and the way that they did, isn't satisfactory. So is there something specific yall want them to do?  
 (If the anwser is "agree that the poem is violent" or something like that, see Mukta's comments & later analyses in the next blog post where we responded to this)
 
 And why Mukta needs to prove it to you? to make YOU satisfied? Is accountability established only when the other party is "satisfied"? (genuine question)  
@@ -554,11 +554,11 @@ why this double standards everywhere??? WHITENESS!!
 
 Some related points also gets brought up many times like "Liv was triggered", "Liv's reaction was reasonable/understandable" despite we have addressed that in the original post as well.  
 
-People seem to ignore that or maybe think I didn't "mean it"?
+People seem to ignore those points or maybe think I didn't "mean it"?
 
 Why when I say something, it does not get interpreted as what I mean? and __yall act like the authority on what I mean__?
-That's what yall are and all yall know. But reflect and you may understand.
-(This is NOT the same as insisting I mean something when I didn't mean it, to evade judgement or accountability. Example: when I said stuff equivalent to "Liv should engage", and later I realised that was wrong, so I acknowledged and apologised. I AM able to see my mistakes. and I SHOULD BE able to tell you what I mean and have it be believed.)
+That's what yall are and all yall know. But reflect and you may understand.  
+(This is NOT the same as insisting I mean something when I didn't mean it, to evade judgement or accountability. Example: I said stuff equivalent to "Liv should engage", and later I realised that was wrong, so I acknowledged and apologised. I AM able to see my mistakes. and I SHOULD BE able to tell you what I mean and have it be believed.)
 
 You seriously come to tell me, that Liv was emotionally hurt biiiiig time (VALID), and that dictates what level of apology, remorse Mukya or I should show, and how we should completely cater to Liv's comfort and THEIR understanding of reality even down to our own internal reality, and turn around and just tell me with a straight face that YOU DON"T THINK Mukta was "harmed as much as Liv"?? When Mukta or I tell you how hurt Mukta was, it's just apparently not worth believing? You're just gonna argue that away with your "logic"?  
 
@@ -574,11 +574,31 @@ I talked about whiteness and white power and systematic power imbalance.
 
 I also didn’t say who “was racist” but I talked about how the whiteness playing out systematically is felt by Mukta and me, and we chatted about how it’s similar to our (and other people’s) other experiences.  
 
-the construct of whiteness is played out in race a lot but also is not the same as race. for example, someone being non-white doesn’t exempt them from using or benefiting from whiteness, or have beliefs based on whiteness/coloniality.  
+the construct of whiteness is played out in race (as in for example, a situation where people with different races are involved) yes but also is not quite the same as racism/race-based discrimination. I would say it's broader than racism and is the connecting factor for racism to be connected to other injustices and oppression like colonialism, imperialism and even capitalism patriarchy etc. (correct/fill me in if you have different thoughts/sources!)  
+For example, someone being non-white doesn’t exempt them from using or benefiting from whiteness, or have beliefs based on whiteness/coloniality.  
 
-I don't have the most eloquent words here so I'll try to find some sources that talks more rigoriously about whiteness. I do recommend [Asiatu](https://www.instagram.com/asiatu.coach) for this though.
+I don't have the most eloquent words here so I'll try to find some sources that talks more rigoriously about whiteness.  
 
 AGAIN, try not to twist my words and use YOUR INTERPRETATION of it as the reality.  
+
+#### Important note, if u care
+
+This blog post isn't about *specific* comments, as that'll be in a separate part, but I do want to point out, many comments were harmful and vile and unhinged.  
+
+This caused harm to Mukta.  
+
+The comments directed at me caused harm to me.  
+
+(but now do there bringers of justice care about that? they think we deserve as much shit they can throw at us, as soon as we failed their compliance test. talk about "the post is too much" but your comments, which is received by real people too, is VILE. This is the signature of double standards and oppression and whiteness.)  
+
+I also talked with 1 person in DMs in which the person called me "insane" and "delusional", demanded to talk to me and not Mukta, asked me questions like an interrogation (which after I answer they mostly ignore that point and not respond), demanded me to take the post down, say I'm wasting my time (who ARE you?), AND MORE, while they made wild assumptions about the situation that they took as REALITY and was NOT going to change their MIND when new information was presented - audacity??    
+
+I really have more to say about the comments and interactions but I'll refrain and only talk about those in the designated place.  
+
+I personally, actually don't care if those people apologise or do anything. If you learn, cool. But wether you do or don't, that's not my business. they are irrelevant now. This is not about "showing off being a bigger person" as that's still resentment and just a weird thing... But I'm still telling you this because the truth is worth being told. People deserve to know what happens when you are not supposed to have humanity and even stand by it but you do...  
+I already said in the original post, that we worry about what will happen after we make the post. And of course, if we had kept quiet, nothing would move forward but we would not have to be attacked for a second round. We had to evaluate if it was worth it (do that labour even before it happened), and we thought you know what, this happens too often. It must have already happened before and will happen again. If we speaking up will reduce it even a little bit, or reduce some existing pain from our sisters(gender neutral), then it IS worth it.  
+
+That's all for now!
 
 <br>
 <br>
