@@ -8,7 +8,7 @@ updated: 2024-10-05
 Let me just very clearly re-state this in the very beginning this time.
 
 Since this is ALL yall Liv supporters care about -  
-Mukta understands and acknowledges, that sending a poem with explicit imagery, without context or warning, caused harm to Liv. Mukta apologise for this (check with Mukta here)  
+Mukta understands and acknowledges, that sending a poem with explicit imagery, without context or warning, caused harm to Liv. Mukta apologise for this.  
 Mukta said to me "...I should do a consent/note thing, cuz I see it's an act of care and i should utilise it as needed, this one I'm very clear on and I'll practice it as needed".  
 Mukta said in comments "And yes I should have asked or given a warning/note at least as, as a survivor i understand feeling triggered and yet i didn't practice this that time which i should have".  
 
