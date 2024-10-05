@@ -559,6 +559,10 @@ Why when I say something, it does not get interpreted as what I mean? and __yall
 That's what yall are and all yall know. But reflect and you may understand.
 (This is NOT the same as insisting I mean something when I didn't mean it, to evade judgement or accountability. Example: when I said stuff equivalent to "Liv should engage", and later I realised that was wrong, so I acknowledged and apologised. I AM able to see my mistakes. and I SHOULD BE able to tell you what I mean and have it be believed.)
 
+You seriously come to tell me, that Liv was emotionally hurt biiiiig time (VALID), and that dictates what level of apology, remorse Mukya or I should show, and how we should completely cater to Liv's comfort and THEIR understanding of reality even down to our own internal reality, and turn around and just tell me with a straight face that YOU DON"T THINK Mukta was "harmed as much as Liv"?? When Mukta or I tell you how hurt Mukta was, it's just apparently not worth believing? You're just gonna argue that away with your "logic"?  
+
+double standards. You don't see Mukta's humanity. WHITENESS.
+
 <br>
 
 - “It’s not about race”
