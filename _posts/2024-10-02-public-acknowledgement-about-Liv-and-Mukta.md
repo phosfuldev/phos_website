@@ -102,7 +102,7 @@ After hearing what happened I wanted to check if Liv said anything publicly abou
 
 I saw Liv posted about this incident in their stories and showed Mukta's page (screenshot below; all screenshots at the end) asking people who know Mukta talk to Mukta.  
 
-![screenshot of Liv's instagram story. The background image is a screenshot of Mukta's instagram profile page, you can see Mukta's bio, and the fact that Mukta's profile is private and Liv wasn't following Mukta at that moment. Overlay text says "For clarity, this is the person who sent those messages. I'm not saying to stop pushing for mutual aid and supporting this person. But perhaps somebody who actually knows them could tell them to not fucking do this and that it's extremely harmful. (line break) Every one who posted about supporting this person follows me. Please talk to them."](/assets/images/Screenshot_Liv_16.jpg)  
+![screenshot of Liv's instagram story. The background image is a screenshot of Mukta's instagram profile page, you can see Mukta's bio, and the fact that Mukta's profile is private and Liv wasn't following Mukta at that moment. Overlay text says "For clarity, this is the person who sent those messages. I'm not saying to stop pushing for mutual aid and supporting this person. But perhaps somebody who actually knows them could tell them to not fucking do this and that it's extremely harmful. (line break) Every one who posted about supporting this person follows me. Please talk to them."](/assets/images/Screenshot_Liv_16_anon.jpg)  
 
 a couple of hours later, Liv commented on the mutual aid post about Mukta and asked me to read their stories, I guess to make sure I didn't miss it.  
 
