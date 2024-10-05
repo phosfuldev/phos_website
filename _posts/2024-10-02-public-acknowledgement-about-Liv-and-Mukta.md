@@ -24,7 +24,7 @@ Images have alt text.
 {:toc}
 
 
-### [The Original post](#original-post)
+### [Part 1. The Original post](#original-post)
 
 -- Note: This section is the unedited version of original blog post (posted to the public on 2024-10-02 (AEST)) (Unedited except screenshots) --
 -- At this point, the original *instagram* posts have been deleted to remove identifying information. --
@@ -376,7 +376,7 @@ I did also send another message that's like "I'm going to sleep now so I may rep
 <br>
 
 
-### [First quick response post](#first-quick-response-post)
+### [Part 2. Quick response post](#quick-response-post)
 
 Comments mostly came in on Oct 4 (AEST), and there were some good points people brought up and things we were not aware of, that I wanted to address as soon as possible.
 
@@ -471,7 +471,7 @@ I'm glad some communication came from the original post, so that now we can addr
 -- the end! --
 
 
-### [General Analysis of Comments (New)](#gen-analysis-of-comments)
+### [Part 3. General Analysis of Comments (New)](#gen-analysis-of-comments)
 
 These general analysis is here because it may be helpful to ANYONE. It's anything that didn't fit into the "quick post"/previous section, as I wanted to get the most important parts out as soon as possible.
 
