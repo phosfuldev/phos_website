@@ -1,8 +1,36 @@
 ---
 layout: post
-author: Phos and Mukta
-tags: []
+author: Phos and Mukta; Phos
+tags: ["updated: 2024-10-05"]
+updated: 2024-10-05
 ---
+
+Let me just very clearly re-state this in the very beginning this time.
+
+Since this is ALL yall Liv supporters care about -  
+Mukta understands and acknowledges, that sending a poem with explicit imagery, without context or warning, caused harm to Liv. Mukta apologise for this (check with Mukta here)  
+Mukta said to me "...I should do a consent/note thing, cuz I see it's an act of care and i should utilise it as needed, this one I'm very clear on and I'll practice it as needed".  
+Mukta said in comments "And yes I should have asked or given a warning/note at least as, as a survivor i understand feeling triggered and yet i didn't practice this that time which i should have".  
+
+I also want to say, there was many things to be addressed in the original post. Me not talking about the above in detail being read as "glossing over" is a biased judgement.
+
+Now let's get on with it. This current, updated blog post have de-identified Liv, included my little "response post", and added a new section of further analysis, guided by comments on the original instagram post.  
+There will be another post for only the comments and response.
+
+Images have alt text.
+
+
+### Table of contents
+- [The Original post](#original-post)
+- [First quick response post](#first-quick-response-post)
+- [General Analysis of Comments](#gen-analysis-of-comments)
+
+
+### [The Original post (posted to the public on 2024-10-02 (AEST))](#original_post)
+
+-- Note: This section is the unedited version of original blog post. (Unedited except screenshots) --
+-- At this point, the original *instagram* posts have been deleted to remove identifying information. --
+-- It will be reposted on instagram but not with all the original content, and I will be telling folks that the website still has all things unedited and come the website especially if one wish to comment on things. --
 
 This is a copy/archive of an instagram post I (and Mukta) made (well, technically 2 posts, because it was too long), with some parts slightly edited for the website reading experience, and even more details that we couldn't add to the post itself - "reciepts", so to say - to the end.  
 
@@ -345,7 +373,210 @@ In chronological order, including the one posted already in main article.
 
 I did also send another message that's like "I'm going to sleep now so I may reply late" in the same day, and a few days later another message asking if Liv still wants to talk. I don't know when I was blocked so I don't know if they saw those messages.  
 
-<br>
+
+
+
+### [First quick response post](#first-quick-response-post)
+
+Comments mostly came in on Oct 4 (AEST), and there were some good points people brought up and things we were not aware of, that I wanted to address as soon as possible.
+
+So I posted this at Oct 4 night (about 2am actually so technically Oct 5 ig), titled "Some clarifications and a few apologies"
+
+below is the content of the post!
+
 <br>
 
+by Oct 4th (AEST), some people reached out with disagreements re the previous posts.
+
+You can see the original comments (and my original responses) for yourself under the original post (mostly part 2) (*note: you can't anymore on instagram at least for now but see the above)  
+but I'll be removing that post soon and reposting for reasons I will explain.  
+
+anyway some stuff that was mentioned both in comments and private needs to be addressed.  
+
+<br>
+
+First I want to apologise for talking "for" Mukta at times in my response to comments.  
+
+Mukta is generally happy to talk with yall and I need to watch myself and not overstep.  
+
+my opinions on what happened doesn't overwrite Mukta's opinions if they express something different.  
+
+this is not an easy judgement as we made the post together, but I'll be more mindful in future interactions.  
+
+<br>
+
+Clarification 1:
+
+I was told "Mukta" is apparently a traditionally male name, but our Mukta is not male.  
+
+Mukta is AFAB and agender.  
+(and they had no idea about the "traditionally male" thing either, maybe regional?)  
+
+this may change some things about perceiving Mukta's poem.  
+Or maybe not.  
+But both of us didn't know people had this assumption and I think at least, it's possible it could have informed judgement.  
+
+<br>
+
+Clarification 2:  
+
+I was also told that the language of the poem matches up with Liv's post too perfectly to not be directed at them, or a product from Liv's post.  
+
+If you hold this understanding, "cos the clues are too obvious", I can't force you to change. I understand that logic.  
+
+but I just want to clarify that this was not how the poem was written.  
+it was solely from Mukta's lived experience.  
+
+we can talk about how this caused Liv to be especially very triggered and rightfully so, but if we are talking about the intention or what happened on Mukta's side, that was not the intention and not what happened.  
+
+<br>
+
+Mukta's mutual aid "main summary text" for your context:  
+
+!["instagram tile titled "Mutual Aid Request". Text says: "Mukta (they/them) is a queer, disabled, mad, and neurodivergent sweetie based in India. They are experiencing domestic violence and are in immediate physical danger having narrowly escaped multiple near-death experiences. Their health is declining. (line break) Right now they urgently need clothing to be able to go outside safely." Below this, transfer details are listed. Then there's one more text box saying "thanks @yejin_lee for the original write up". "](/assets/images/Mukta_ma_post_page_1.png)  
+
+<br>
+
+Apology 1:  
+
+I didn't know Liv went back and revised their stories to have Mukta's ig handle removed.  
+
+I had Liv's handle in my screenshots. I didn't realise this and this is a oversight in the beginning as I didn't intend to name them "like that", and right now especially not very appropriate anymore.  
+
+I'll remove the posts soon and repost without Liv's handle. and make the same correction on my website.  
+i will not be taking the posts down forever.  
+
+i'll try to preserve the conversations in the comments in my own way, but anyone is free to keep their own records.  
+
+unfortunately it is very late now here so I'll do this first thing tomorrow.  
+
+<br>
+
+Apology 2:  
+
+when talking in comments I have expressed/suggested things like "Mukta was ready to explain and repair" and "Liv should have at least responed in some way" or could have done this or that. there's unconscious subtext there: "Liv should have just listened to an explanation and all will be well!"  
+
+i have been trying to shed that thought when writing up the post (which I could edit for days and fix issues) but i wasn't very successful because it came through again in my comments (which is more real time). I acknowledge this is not a helpful perspective and can easily lead to abuse apologism (?) and the centering of party that caused harm rather than the victim. I apologise for the hurt I caused by expressing this in the comments.  
+
+(also I say "unconscious" because I was not/less aware before but am aware now. this isn't a "excuse" for not being aware before but just acknowledging the change.)  
+
+<br>
+
+Mukta caused harm to Liv, Liv tried to address it and caused harm to Mukta. I tried to address that and I caused harm to Liv again (by naming their handle) and I expressed harmful ideas.  
+
+let this be a lesson for everyone watching.  
+
+I'm glad some communication came from the original post, so that now we can address these.  
+
+-- the end! --
+
+
+### [General Analysis of comments](#gen-analysis-of-comments)
+
+These general analysis is here because it may be helpful to ANYONE. It's anything that didn't fit into the "quick post"/previous section, as I wanted to get the most important parts out as soon as possible.
+
+<br>
+
+- We said in the post that "because Liv posted about Mukta in public, so a public acknowledgement should be done".  
+We were told by the comments that it was indeed done.
+Hun? We didn't know.  
+
+No one was gonna tell Mukta or me **when** that happened either, do yall really think that's not important? Are we supposed to find that information somehow by ourselves? Liv proactively making that acknoledgement by realising the mistake themselves (or with supportive people to process together etc), vs ONLY doing it after PERCEIVED PRESSURE is completely different. Omitting that to shape YOUR NARRIATIVE is manipulative.  
+
+And regardless of when Liv was not proactive because WHENEVER it was posted, it didn't get to the person that __needed to see/know it the most__. It is performative.  
+Anyone watching, DON"T DO THIS. activism is not for your private self improvement.  
+
+But, we are accused of "taking it too far", just because we posted publicly, pointed out the fact that Liv haven't done a public acknowledgement (TO OUR KNOWLEDGE) and we think it should be done.  
+Me posting the public post may be the sole reason Liv acknowledged their harm, at all.  
+
+If you only look at the commentor's attitudes, is it as if Liv already apologised way ahead of time, and we are only doing something completely unneccesary by posting to ask for the thing that was already done. And of course we should have known about it without anyone being proactive about telling us, that's our fault only. (literally trying to rewrite reality again)
+(Even the person who reached out and wanted to mediate didn't mention this. HOW WOULD WE KNOW??)  
+
+<br>
+
+- "Liv or Mukta don't owe each other anything"/"Liv doesn't owe you repair"
+
+I think they do(did) owe each other something. an apology. Or call it accountability. Each party don't owe to *accept* that apology though and don't owe to interact in specific "approved" ways and that is something I didn't get clear on and apologise, and may be what yall are actually referring to as not being owed. So hope this clarifys things.  
+
+As for oweing repair (keep in mind the thing I already apologised for and will keep sincerely apologising for), I again want to clarify something that only came to me after discussing with commentors. (Would be nice if I realised this sooner, but hey I learned from this and now I know)  
+Repair of a relationship between 2 people and accountability can be intertwined but they're different concepts.  
+Mukta was willing to do relational repair only if Liv wishes.  
+Accountability on the other hand, is required from both Mukta and Liv.  
+
+I didn't distinguish this clearly originally both in my mind and in the post which may look like us wanting to force a relational repair, while what we should be saying is accountability is only the thing that definitely should happen. I apologise for the confusion. to clarify this now - this was not the intention and we don't think it would be reasonable.  
+
+So relational repair isn't owed, but apology/accountability IS owed.  
+
+<br> 
+
+Also... I’m not sure if "people don't owe you repair" in general is helpful.  
+
+like, if you're triggered, and engaging (especially specific forms of engaging) doesn't help, then not engaging seems like a good option for that time. this I understand and agree.  
+i can see people don't owe us an interaction, especially any specific form of interaction according to/demanded by *us*, after we hurt them, that would be centering the person who caused harm again. (again I apologise for expressing this)  
+
+Adding the distinction between relational repair vs accountability stated before... “Liv doesn’t owe you repair” I agree with.  
+
+but to say "people don't owe each other repair", **as a general belief**... (maybe that’s not what you all think but let me address in case anyone does think this)  
+
+do yall agree that a liberated society will not be without harm? (I first heard this from someone but idk who first spread this idea)  
+if we just cut people off permanently after each harm or hurt can we have community at all?  
+(don't twist my words - I am not saying don't EVER cut people off, and I’m not saying “Liv should have xyz” here, just talking in general. I am aware, many times people especially more oppressed/marginalised people, have been exactly pushed out of community "for community". So definitely needs to look at each case with nuance.)  
+
+if you have any thoughts or any reading materials to recommend I'd appreciate it. I need to learn more about this.  
+
+<br>
+
+- In many of the comments, it was emphasised that Mukta caused harm too.  
+
+We HAVE addressed this. The original post have said __Mukta caused harm__ and willing to be accountable.  
+
+what we may "disagree" is how "serious" the hurt caused by Mukta is. people tell me that I'm understating it.  
+
+when you are telling me, that Liv's intention was not to hurt Mukta's fundraiser, Liv's intention was just to call Mukta in... BECAUSE I SEE MUKTA'S HUMANITY, I also can tell you, Mukta is a human with intentions too. Mukta's intention was not to trigger or hurt Liv. Mukta's intention was actually to apologise immediately, but they couldn't. Mukta's intention was they realise their mistake, they realise they triggered Liv and they shouldn't have.... see the circular argument? see the shifting goal post?  
+Do you care about Mukta's humanity? do you believe Mukta as much as you believe a white person?  
+
+You can "conclude" "assume" Mukta doesn't have good intentions but when I tell you via my analysis that when I look at X behaviours, it seems Liv may not have good inentions, yall can't understand that. Yall would turn around and say "also, intention isn't everything."  
+if you think Liv's intention holds weight and you don't treat Mukta's intention the same, there's a double standard. I'm not saying you *should* or *shouldn't* see intention in a certain way, just it needs to be consistent and not applied differently to your friend vs a stranger(*), a person with white power vs a person without.  
+
+Do you want Mukta to do some specific action? yall keep saying Mukta "needs to take accountability" __as if they didn't__, but they did, and the way that they did, isn't satisfactory. So is there something specific yall want them to do?
+(If the anwser is "agree that the poem is violent" or something like that, see Mukta's comments & later analyses in the next blog post where we responded to this)
+
+And why Mukta needs to prove it to you? to make YOU satisfied? Is accountability established only when the other party is "satisfied"? (genuine question)  
+When you show us you won't be unless we reject Mukta's reality and accept YOUR version of reality that you want to prescribe to us?  
+
+and why does *this* suddenly have to be done YOUR WAY when Liv is free to choose whatever they do, always with an "understandable" reason? whatever Liv HAVE DONE yall have just accepted with zero requirements whatsoever which reinforces existing white neutrality?? (literally talked about this point in original post too)  
+
+and why can't we talk the same way about Liv? why if we make demands of Liv we are suddenly the unreasonable one (with whatever "understandable" reasons)? We didn't even make any demands directed at Liv but the post itself is already seen as "too much".  
+
+why this double standards everywhere??? WHITENESS!!  
+
+<br> 
+
+Some related points also gets brought up many times like "Liv was triggered", "Liv's reaction was reasonable/understandable" despite we have addressed that in the original post as well.  
+
+People seem to ignore that or maybe think I didn't "mean it"?
+
+Why when I say something, it does not get interpreted as what I mean? and __yall act like the authority on what I mean__?
+That's what yall are and all yall know. But reflect and you may understand.
+(This is NOT the same as insisting I mean something when I didn't mean it, to evade judgement or accountability. Example: when I said stuff equivalent to "Liv should engage", and later I realised that was wrong, so I acknowledged and apologised. I AM able to see my mistakes. and I SHOULD BE able to tell you what I mean and have it be believed.)
+
+<br>
+
+- “It’s not about race”
+
+I never talked about race in the analysis, and that was deliberate. (and yall missed that point)  
+
+I talked about whiteness and white power and systematic power imbalance.  
+
+I also didn’t say who “was racist” but I talked about how the whiteness playing out systematically is felt by Mukta and me, and we chatted about how it’s similar to our (and other people’s) other experiences.  
+
+the construct of whiteness is played out in race a lot but also is not the same as race. for example, someone being non-white doesn’t exempt them from using or benefiting from whiteness, or have beliefs based on whiteness/coloniality.  
+
+I don't have the most eloquent words here so I'll try to find some sources that talks more rigoriously about whiteness. I do recommend [Asiatu](https://www.instagram.com/asiatu.coach) for this though.
+
+AGAIN, try not to twist my words and use YOUR INTERPRETATION of it as the reality.  
+
+<br>
+<br>
+<br>
 
