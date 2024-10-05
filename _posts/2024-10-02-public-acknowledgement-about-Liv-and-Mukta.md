@@ -20,7 +20,6 @@ There is [another post](https://phosworld.xyz/public-acknowledgement-about-liv-a
 Images have alt text.
 
 
-### Table of Contents:
 * This will become a table of contents
 {:toc}
 
