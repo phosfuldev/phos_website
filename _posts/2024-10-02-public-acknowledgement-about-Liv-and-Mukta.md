@@ -472,7 +472,7 @@ I'm glad some communication came from the original post, so that now we can addr
 -- the end! --
 
 
-### [General Analysis of Comments](#gen-analysis-of-comments)
+### [General Analysis of Comments (New)](#gen-analysis-of-comments)
 
 These general analysis is here because it may be helpful to ANYONE. It's anything that didn't fit into the "quick post"/previous section, as I wanted to get the most important parts out as soon as possible.
 
