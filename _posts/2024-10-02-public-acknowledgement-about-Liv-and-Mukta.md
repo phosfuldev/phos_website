@@ -64,7 +64,7 @@ Mukta has sent a resistance poem with explicit imagery to Liv without preface or
 
 Liv is angry about recieving and being made to read what Mukta sent and blocked Mukta soon after. By the time Mukta saw the messages and tried to communicate further and apologise they found they were blocked.
 
-##### The poem
+##### The poem (TW)
 
 **Please engage mindfully or skip this part if you need to.**  
 
@@ -302,14 +302,16 @@ We can all use these broader points to reflect how we are going to deal with mis
 And I was gonna talk about “using proper CW” here but after so much thought, I think that actually distract from the main problems this situation present to us, and sort of puts a comparison between what Mukta did and what Liv did - to make such a comparison is to minimise what Mukta experienced and to give Liv’s actions legitimacy. To equate Mukta's mistake to Liv's violence would also be an act of oppressive violence. This is not me “condoning” anything, but whatever. At this point, if you get it you get it!  
 
 
-#### Finally - Aspiring/Self-proclaimed abolitionists and activists:  
+#### Finally 
+
+Aspiring/Self-proclaimed abolitionists and activists:  
 
 You can talk all the theory you want but when you face a BIPOC person's life, and you see and feel, close up, the power in your hand over them (IF you do), at that moment how you act is more important than any theory you will ever say or write. This will always be the most fundamental and important. And you will face many such moments.  
 
 Just like each settler upholds the settler colony, each person especially white person that does not critically examine their actions builds on the death machine.  
 
 
-#### Final meta note:
+#### Final meta note
 
 this post was a LOT of work, mental work. I now understand very closely what people go through when they write a post like this.  
 Me and Mukta needed to hone in our intention, find the best words that can't be misinterpreted, make it objective and inoffensive and "polite"... but also keep our perspective and voice clear.  
