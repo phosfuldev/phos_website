@@ -379,6 +379,8 @@ I did also send another message that's like "I'm going to sleep now so I may rep
 > Note: This section is the unedited version of original "follow up" post (posted to the public on instagram on 2024-10-05 about 2am (AEST)) 
 > I wanted to address some stuff that was discussed in comments as soon as possible, so I posted the most important parts as soon as I could like this.
 
+<br>
+
 title: "Some clarifications and a few apologies"
 
 <br>
