@@ -376,6 +376,8 @@ I did also send another message that's like "I'm going to sleep now so I may rep
 
 ### [Part 2. Quick response post](#quick-response-post)
 
+> Note: This section is the unedited version of original "follow up" post (posted to the public on instagram on 2024-10-05 (AEST))  
+
 Comments mostly came in on Oct 4 (AEST), and there were some good points people brought up and things we were not aware of, that I wanted to address as soon as possible.
 
 So I posted this at Oct 4 night (about 2am actually so technically Oct 5 ig), titled "Some clarifications and a few apologies"
