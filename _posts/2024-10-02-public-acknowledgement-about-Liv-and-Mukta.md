@@ -634,9 +634,10 @@ Is there something so fundamentally different about posting on stories and on gr
 
 <br>
 
-Let me also expand on something, that got used against me.  
+Let me also expand on something that was in the post, that got used against me.  
 I had Liv's ig handle in my post, in screenshots.  
 I do (and did) apologise for having it, as I didn't intent to have it but had it by accident, that's a mistake; and having your page to be tracable like that isn't a good feeling in general. and I took steps to correct it. - This part is just repeating what I already said in Part 2. But there's more I need to say about this.  
+I made a mistake and addressed it, but it still was used against me.  
 
 When making the post and when it was posted, our understanding was that Liv made no effort to de-identify, so it's not in our obligation to de-identify either. If we did, that would have benn a nice guesture, but using it against me is double standards.  
 If Liv did already de-identify the screenshots at that point, we didn't know. If we were just told somehow (doesn't have to be any specific person or way just SOMEHOW), we would have looked over and edited the post.  
