@@ -604,7 +604,8 @@ I also didn’t say who “was racist” but I talked about how the whiteness pl
 It's about dominance and oppression. Not just race.  
 
 the construct of whiteness is played out in race (as in for example, a situation where people with different races are involved, like this one) yes but also is not quite the same as racism/race-based discrimination. I would say it's broader than racism and is the connecting factor for racism to be connected to other injustices and oppression like colonialism, imperialism and even capitalism patriarchy etc. (correct/fill me in if you have different thoughts/sources!)  
-For example, someone being non-white doesn’t exempt them from using or benefiting from whiteness, or have beliefs based on whiteness/coloniality. Whiteness doesn't come from your skin colour, it comes from what you're exposed to growing up/in your whole life, and how you position yourself in these values - are you "the whites" - the ones at the top? are you not one of them but try to share some white power? or are you completely buried underneath? And that exposure doesn't just happen in white countries/places.  
+For example, someone being non-white doesn’t exempt them from using or benefiting from whiteness, or have beliefs based on whiteness/coloniality.  
+Whiteness doesn't come from your skin colour, it comes from what you're exposed to growing up/in your whole life, and how you position yourself in these values - are you "the whites" - the ones at the top? are you not one of them but try to share some white power or do you justify it? or are you completely buried underneath? (and everything in between) And that exposure doesn't just happen in white countries/places.  
 
 Here specifically, why whiteness plays a part is also about Mukta being from and located in the global south*, and Liv (and supporters) being in the empirial core. So no, it's absolutely not just about race.  
 
