@@ -15,7 +15,7 @@ Mukta said in comments "And yes I should have asked or given a warning/note at l
 I also want to say, there was many things to be addressed in the original post. Me not talking about the above in detail being read as "glossing over" is a biased judgement.
 
 Now let's get on with it. This current, updated blog post have de-identified Liv, included my little "response post", and added a new section of further analysis, guided by comments on the original instagram post.  
-There is [another post](https://phosworld.xyz/public-acknowledgement-about-liv-and-mukta-documenting-and-responding-to-comments) for only the comments and response.
+There is [another post](https://phosworld.xyz/public-acknowledgement-about-liv-and-mukta-documenting-and-responding-to-comments) for only the comments (and maybe response to come).
 
 Images have alt text.
 
@@ -475,28 +475,61 @@ I'm glad some communication came from the original post, so that now we can addr
 
 These general analysis is here because it may be helpful to ANYONE. It's anything that didn't fit into the "quick post"/previous section, as I wanted to get the most important parts out as soon as possible.
 
+Sometimes I'll be talking as if I'm responding to the commentors, but the point is to illustrate double standards and other issues. Writing like this felt natural and was cathartic tbh so I'm keeping it this way.
 
-- We said in the post that "because Liv posted about Mukta in public, so a public acknowledgement should be done".  
+Now let's dive in!  
 
-We were told by the comments that it was indeed done.
+#### Consequence?
+
+Yall seem to think "Mukta was afraid for their life because of BEING CALLED OUT, because of afriad of consequences of their own action"  
+
+This is just straight up inventing/revising reality. But you wouldn't know cos you either don't know at all, or don't listen to/believe Mukta.  
+(yall are literally only believing the white victim, and seeing the non white victim as... not a victim?? and because we tried to tell our version of the story (now we are acting with agency and yall hate to see that.)? when Liv mess up and give themselves reasons and later "acknowledge" it's fine though? tell me it doesn't have to do with whiteness again?)  
+
+Mukta wasn't afriad when they found out Liv blocked them. Being blocked was unfortunate but reasonable. Mukta is only afriad after they come to know Liv posted their handle publicly and also even commented on their mutual aid post.  
+
+We also came to know later, that people tagged/collabed in the Mutual aid post (so not just me), were contacted by Liv. I'm not sure if this was done publicly or privately. Liv went out of their way to harrasse people, to try to remove support from Mukta. (How can you argue the intention was not retaliation?) I didn't mention that part because in a serious analysis, I was going to "do the right thing" and just talk about what I DID see with my own eyes. But since Liv's side is not gonna bring it up, I will. Can Liv admit to having done this?  
+
+Liv themself said they shouldn't have exposed Mukta publicly like that. That's means Liv agree that it isn't fair. Your "consequences" argument doesn't even stand.  
+Also you can't be telling me "this is disporportionate, drop this immediately, Liv already apologised" AND "Liv did nothing wrong and was perfectly reasonable" at the same time. Cognitive dissonance? 
+
+Mukta says: "a circle (kind of) should form, I a sexual harraser, any potential loss of life/livelihood/dignity as a natural consequence of my sexual harrasing is a natural consequence and cannot be accounted by those who I sexually harrassed (one manifestation of sexual violence -sexual harrasment) - for this to be true, I'd have to be a sexual harraser - for which to be true - my poem would have to be *insert words of the dominant culture*.  
+Now flip.  
+My poem is solely birthed from my lived experience aka 'mult opprsd in the Indian state' and is my reality, so the moment they believe my reality over their perception of my reality i.e my poem, I'd not be a sexual harraser and my potential loss of life cannot be called a natural consequence but instead becomes a violent oppressive attack and their entire basis/argument of me collapses.  
+Dominant culture not believing my reality (even if unable to understand) and forcing their perception of it on me is sanist and using that to is sanist and violently oppressively so, which is then used to create a false narrative of me being sexual harraser to justify any loss of life/livelihood/dignity of me as a natural consequence, is deeply violent, carceral, oppressive in nature and also enables and justifies(!)  further sexual violence on me as part of natural consequence."  
+
+
+#### The public acknowledgement from Liv
+
+We said in the original post that "because Liv posted about Mukta in public, so a public acknowledgement should be done".  
+
+We were told by the comments that it was indeed done.  
 Hun? We didn't know.  
 
-No one was gonna tell Mukta or me **when** that happened either, do yall really think that's not important? Are we supposed to find that information somehow by ourselves? Liv proactively making that acknowledgement by realising the mistake themselves (or with supportive people to process together etc), vs ONLY doing it after PERCEIVED PRESSURE is completely different. Omitting that to shape YOUR NARRIATIVE is manipulative.  
+No one was gonna tell Mukta or me **when** that happened either, do yall really think that's not important? Liv proactively making that acknowledgement by realising the mistake themselves (or with supportive people to process together etc), vs ONLY doing it after PERCEIVED PRESSURE is **completely different** in terms of accountability. Omitting that to shape YOUR NARRIATIVE is manipulative.  
 
 And regardless of when Liv was not proactive because WHENEVER it was posted, it didn't get to the person that __needed to see/know it the most__. It is performative.  
 Anyone watching, DON'T DO THIS. activism is not for your private self improvement.  
 
-But, we are accused of "taking it too far", just because we posted publicly, pointed out the fact that Liv haven't done a public acknowledgement (TO OUR KNOWLEDGE) and we think it should be done. (and dared to analyse how whiteness was a part of this)  
+But, we are accused of "taking it too far", just because we posted publicly, pointed out the lack of public acknowledgement (TO OUR KNOWLEDGE) and dared to analyse how whiteness was a part of this.  
 Me posting the public post may be the sole reason Liv acknowledged their harm, at all.  
+And I'm supposed to take down **the whole analysis** just because they apologised? Nah. That's why I was going to (and did) modify it and acknowledge what happened, but leave the analysis here.  
 
 If you only look at the commentor's attitudes, is it as if Liv already apologised way ahead of time, and we are only doing something completely unneccesary by posting to ask for the thing that was already done. And of course we should have known about it without anyone being proactive about telling us, that's our fault only. (literally trying to rewrite reality again)
 (Even the person who reached out and wanted to mediate didn't mention this. HOW WOULD WE KNOW??)  
 
-<br>
 
-- "Liv or Mukta don't owe each other anything"/"Liv doesn't owe you repair"
+#### Liv should have? Liv owe?
 
-I think they do(did) owe each other something. an apology. Or call it accountability. Each party don't owe to *accept* that apology though and don't owe to interact in specific "approved" ways and that is something I didn't get clear on and apologise, and may be what yall are actually referring to as not being owed. So hope this clarifys things.  
+These points are about "Liv or Mukta don't owe each other anything"/"Liv doesn't owe you repair"/"Liv isn't oblgated to X"
+
+First Let me address something related and be really clear here.  
+There were multiple places in the original post that sort of..? implied Liv should have done things differently. Like when I said Liv blocked "immediately", could be suggesting they should have waited; the analysis on "Liv said Mukta is someone they don't know" could be suggesting how Liv acted there is what led to Everything that happened; maybe even talking about me being blocked could be suggesting Liv shouldn't have blocked me...  
+So, if I'm doing an ok job of trying someone else's shoes, in the critique's eyes, I was constantly invalidating what Liv did, and that's wrong and victim blaming.  
+I understand (at least now I understand better), that to literally suggest what Liv should or shouldn't have done, when it's a response to what Mukta did, can be victim blaming. And the post wasn't very clear in these parts (although I don't know how clear is possible because I'm analysing Liv's actions after all. Yall demand a custom made wrap around argument and miss the actual argument that's already there..)  
+But why yall also **doing the same to us**? and that's not victim blaming? Because yall are "right"? Or because even though you say "ok i guess Mukta was hurt" but you don't **actually believe that**?  
+
+I think they do(did) owe each other something. an apology for what was done wrong. Or call it accountability. Each party don't owe to *accept* that apology though and don't owe to interact in specific "approved" ways and that is something I didn't get clear on and apologise, and may be what yall are actually referring to as not being owed. So hope this clarifys things.  
 
 As for oweing repair (keep in mind the thing I already apologised for and will keep sincerely apologising for), I again want to clarify something that only came to me after discussing with commentors. (Would be nice if I realised this sooner, but hey I learned from this and now I know)  
 Repair of a relationship between 2 people and accountability can be intertwined but they're different concepts.  
@@ -524,9 +557,8 @@ if we just cut people off permanently after each harm or hurt can we have commun
 
 if you have any thoughts or any reading materials to recommend I'd appreciate it. I need to learn more about this.  
 
-<br>
 
-- In many of the comments, it was emphasised that Mukta caused harm too.  
+#### Mukta caused harm too
 
 We HAVE addressed this. The original post have said __Mukta caused harm__ and willing to be accountable.  
 
@@ -564,26 +596,72 @@ You seriously come to tell me, that Liv was emotionally hurt biiiiig time (VALID
 
 double standards. You don't see Mukta's humanity. WHITENESS.
 
-<br>
 
-- “It’s not about race”
+#### “It’s not about race”
 
 I never talked about race in the analysis, and that was deliberate. (and yall missed that point)  
 
 I talked about whiteness and white power and systematic power imbalance.  
 
 I also didn’t say who “was racist” but I talked about how the whiteness playing out systematically is felt by Mukta and me, and we chatted about how it’s similar to our (and other people’s) other experiences.  
+It's about dominance and oppression. Not just race.  
 
-the construct of whiteness is played out in race (as in for example, a situation where people with different races are involved) yes but also is not quite the same as racism/race-based discrimination. I would say it's broader than racism and is the connecting factor for racism to be connected to other injustices and oppression like colonialism, imperialism and even capitalism patriarchy etc. (correct/fill me in if you have different thoughts/sources!)  
+the construct of whiteness is played out in race (as in for example, a situation where people with different races are involved, like this one) yes but also is not quite the same as racism/race-based discrimination. I would say it's broader than racism and is the connecting factor for racism to be connected to other injustices and oppression like colonialism, imperialism and even capitalism patriarchy etc. (correct/fill me in if you have different thoughts/sources!)  
 For example, someone being non-white doesn’t exempt them from using or benefiting from whiteness, or have beliefs based on whiteness/coloniality.  
 
 I don't have the most eloquent words here so I'll try to find some sources that talks more rigoriously about whiteness.  
+For now (because I'm chronically on instagram) I recommend [Asiatu](https://www.instagram.com/asiatu.coach) and [Joris](https://www.instagram.com/joris.lechene), it's social media content but these 2 definitely know what they're talking about.  
 
 AGAIN, try not to twist my words and use YOUR INTERPRETATION of it as the reality.  
 
+
+#### "why make a whole post" "this level of response (is wrong)"
+
+Why did we have to make a post? Liv only posted on their stories didn't they? You escalated!
+
+First bold of yall to assume this is all about yall. The post was an acknowledgement of Mukta's wrongdoings, and an analysis. The analysis part is not directed at Liv or anyone, but learning material and warning and support (again, already stated) for ANYONE applicable (including them).  
+
+And let me remind you, Mukta can't post about this on their page.  
+
+So if Mukta want to publicly address this (because addressing provately is not possible), Mukta have to post via **someone**.  
+
+And that someone, me, happen to think this whole situation is worth talking about.  
+
+Liv thought it was worth talking about in whatever form they chose - public stories, and they did that, no arguments.  
+No one was telling Liv (as far as we can know) that "hey Liv you could have not posted it publicly"?  
+Why I'm the problem?  
+Is there something so fundamentally different about posting on stories and on grid? And even if you think so, is that a universal truth?  
+
+<br>
+
+Let me also expand on something, that got used against me.  
+I had Liv's ig handle in my post, in screenshots.  
+I do (and did) apologise for having it, as I didn't intent to have it but had it by accident, that's a mistake and I took steps to correct it. - This part is just repeating what I already said in Part 2. But there's more I need to say about this.  
+
+When making the post and when it was posted, our understanding was that Liv made no effort to de-identify, so it's not in our obligation to de-identify either. If we did, that would be a nice guesture, but using it against me is double standards.  
+If Liv did already de-identify the screenshots at that point, we didn't know. If we were just told somehow (doesn't have to be any specific person or way just SOMEHOW), we would have looked over and edited the post. We still took down the post as soon as possible after we came to know though.  
+(Also it's likely they only did that AFTER knowing we posted and did it due to PERCEIVED PRESSURE. then supporters just turned around and used it against me. again, tell me if I'm wrong and I'll admit it.)  
+
+We didn't know and we **acted according to the information we had**.  
+
+Now, if somehow "acting according to the information we had" wasn't good enough, I have to remind you, Liv acted in the beginning, according to the information they had. They thought Mukta was out to get them (having this thought is fair, as that's Liv's own judgement of the situation), so they immediately blocked and posted those stories (and commented on the mutual aid post, and __reached out to others__ including me who supported Mukta, separately). In the original post we said, and we still think, these *actions* were unnecessary.  
+But yall all come to Liv's defense and call us victim blaming.  
+
+Yall believe Liv without question, and don't believe us. Simple.  
+
+(Also... I didn't intend to go out of my way to include Liv's handle, Liv's handle was there on the screenshot as part of instagram's UI. It was never separately mentioned. **Liv however**, had Mukta's PAGE AS A SEPARATE SCREENSHOT on their stories. The effort, the intentional action (you can't post a whole new story/screenshot and be unaware that you did it?), the level of exposing is higher - don't agree with me here, fine. But you still gotta understand the first point. __This is not to argue who was "more wrong"__ as both can have very similar effects and now corrected, but just a comparision of what happened and the different reaction.)  
+
+<br>
+
+Another small and kind of related thing. Apparently me asking for support/different voices to comment on the post in my stories was somehow... bad?  
+Liv asked "I could really use some support" when they received things that made them upset? Why am I not allowed to? I asked in public because there's no shade about it whatsoever?  
+Literally don't get why that makes it a "DARVO" campaign. Try not to use words you don't actually udnderstand.  
+
+<br>
+
 #### Important note, if u care
 
-This blog post isn't about *specific* comments, as that'll be in a separate part, but I do want to point out, many comments were harmful and vile and unhinged.  
+This blog post isn't about *specific* comments, but I do want to point out, many comments were harmful and vile and unhinged.  
 
 This caused harm to Mukta.  
 
@@ -591,12 +669,12 @@ The comments directed at me caused harm to me.
 
 (but now do there bringers of justice care about that? they think we deserve as much shit they can throw at us, as soon as we failed their compliance test. talk about "the post is too much" but your comments, which is received by real people too, is VILE. This is the signature of double standards and oppression and whiteness.)  
 
-I also talked with 1 person in DMs in which the person called me "insane" and "delusional", demanded to talk to me and not Mukta, asked me questions like an interrogation (which after I answer they mostly ignore that point and not respond), demanded me to take the post down, say I'm wasting my time (who ARE you?), AND MORE, while they made wild assumptions about the situation that they took as REALITY and was NOT going to change their MIND when new information was presented - audacity??  
+I also talked with 1 person in DMs in which the person called me "insane" and "delusional", demanded to talk to me and not Mukta, asked me questions like an interrogation (which after I answer they mostly ignore that point and not respond), demanded me to take the post down, say I'm wasting my time, AND MORE, while they made wild assumptions about the situation that they took as REALITY and was NOT going to change their MIND when new information was presented - audacity??  
 This person is active in organising and mutual aid in Narrm. If you'd like to know I can tell you who it is.  
 
-I really have more to say about the comments and interactions but I'll refrain and only talk about those in the designated place.  
+I really have more to say about the comments and interactions but I'll refrain and only talk about those in the designated place. (Honestly at this point I don't know if I'll be repsponding to the comments more specifically as it's taken too much of my time and energy and it's starting to feel draining.)  
 
-I personally, actually don't care if those people apologise or do anything. If you learn, cool. But wether you do or don't, that's not my business. they are irrelevant now. This is not about "showing off being a bigger person" as that's still resentment and just a weird thing... But I'm still telling you this because the truth is worth being told. People deserve to know what happens when you are not supposed to have humanity and even stand by it but you do...  
+I personally, actually don't care if those people apologise or do anything. If you learn, cool. But wether you do or don't, that's not my business. This is not about "showing off being a bigger person" as that's still resentment and just a weird thing... But I'm still telling you this here because the truth is worth being told. People deserve to know what happens when you are not supposed to have humanity and even stand by it but you do...  
 I already said in the original post, that we worry about what will happen after we make the post. And of course, if we had kept quiet, nothing would move forward but we would not have to be attacked for a second round. We had to evaluate if it was worth it (do that labour even before it happened), and we thought you know what, this happens too often. It must have already happened before and will happen again. If we speaking up will reduce it even a little bit, or reduce some existing pain from our sisters(gender neutral), then it IS worth it.  
 
 That's all for now!
