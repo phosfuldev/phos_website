@@ -12,8 +12,6 @@ Mukta understands and acknowledges, that sending a poem with explicit imagery, w
 Mukta said to me "...I should do a consent/note thing, cuz I see it's an act of care and i should utilise it as needed, this one I'm very clear on and I'll practice it as needed".  
 Mukta said in comments "And yes I should have asked or given a warning/note at least as, as a survivor i understand feeling triggered and yet i didn't practice this that time which i should have".  
 
-I also want to say, there was many things to be addressed in the original post. Me not talking about the above in detail being read as "glossing over" is a biased judgement.
-
 Now let's get on with it. This current, updated blog post have de-identified Liv, included my little "response post", and added a new section of further analysis, guided by comments on the original instagram post.  
 There is [another post](https://phosworld.xyz/public-acknowledgement-about-liv-and-mukta-documenting-and-responding-to-comments) for only the comments (and maybe response to come).
 
@@ -26,9 +24,9 @@ Images have alt text.
 
 ### [Part 1. The Original post](#original-post)
 
--- Note: This section is the unedited version of original blog post (posted to the public on 2024-10-02 (AEST)) (Unedited except screenshots) --
--- At this point, the original *instagram* posts have been deleted to remove identifying information. --
--- It will be reposted on instagram but not with all the original content, and I will be telling folks that the website still has all things unedited and come the website especially if one wish to comment on things. --
+-- Note: This section is the unedited version of original blog post (posted to the public on 2024-10-02 (AEST)) (Unedited except screenshots) which is a copy of the instagram posts --
+-- the original instagram posts have been deleted to remove identifying information. --
+-- It is now reposted on instagram but the repost only mentions the website but no longer include the content of the ogirinal post. --
 
 This is a copy/archive of an instagram post I (and Mukta) made (well, technically 2 posts, because it was too long), with some parts slightly edited for the website reading experience, and even more details that we couldn't add to the post itself - "reciepts", so to say - to the end.  
 
@@ -636,20 +634,21 @@ Is there something so fundamentally different about posting on stories and on gr
 
 Let me also expand on something, that got used against me.  
 I had Liv's ig handle in my post, in screenshots.  
-I do (and did) apologise for having it, as I didn't intent to have it but had it by accident, that's a mistake and I took steps to correct it. - This part is just repeating what I already said in Part 2. But there's more I need to say about this.  
+I do (and did) apologise for having it, as I didn't intent to have it but had it by accident, that's a mistake; and having your page to be tracable like that isn't a good feeling in general. and I took steps to correct it. - This part is just repeating what I already said in Part 2. But there's more I need to say about this.  
 
-When making the post and when it was posted, our understanding was that Liv made no effort to de-identify, so it's not in our obligation to de-identify either. If we did, that would be a nice guesture, but using it against me is double standards.  
-If Liv did already de-identify the screenshots at that point, we didn't know. If we were just told somehow (doesn't have to be any specific person or way just SOMEHOW), we would have looked over and edited the post. We still took down the post as soon as possible after we came to know though.  
+When making the post and when it was posted, our understanding was that Liv made no effort to de-identify, so it's not in our obligation to de-identify either. If we did, that would have benn a nice guesture, but using it against me is double standards.  
+If Liv did already de-identify the screenshots at that point, we didn't know. If we were just told somehow (doesn't have to be any specific person or way just SOMEHOW), we would have looked over and edited the post.  
+We still took down the post as soon as possible after we came to know though. so after that people have been real quiet (as far as I can know).  
 (Also it's likely they only did that AFTER knowing we posted and did it due to PERCEIVED PRESSURE. then supporters just turned around and used it against me. again, tell me if I'm wrong and I'll admit it.)  
 
-We didn't know and we **acted according to the information we had**.  
+Anyway - We didn't know, and we **acted according to the information we had**, at the time of posting.  
 
 Now, if somehow "acting according to the information we had" wasn't good enough, I have to remind you, Liv acted in the beginning, according to the information they had. They thought Mukta was out to get them (having this thought is fair, as that's Liv's own judgement of the situation), so they immediately blocked and posted those stories (and commented on the mutual aid post, and __reached out to others__ including me who supported Mukta, separately). In the original post we said, and we still think, these *actions* were unnecessary.  
 But yall all come to Liv's defense and call us victim blaming.  
 
 Yall believe Liv without question, and don't believe us. Simple.  
 
-(Also... I didn't intend to go out of my way to include Liv's handle, Liv's handle was there on the screenshot as part of instagram's UI. It was never separately mentioned. **Liv however**, had Mukta's PAGE AS A SEPARATE SCREENSHOT on their stories. The effort, the intentional action (you can't post a whole new story/screenshot and be unaware that you did it?), the level of exposing is higher - don't agree with me here, fine. But you still gotta understand the first point. __This is not to argue who was "more wrong"__ as both can have very similar effects and now corrected, but just a comparision of what happened and the different reaction.)  
+(Also... I didn't intend to go out of my way to include Liv's handle, Liv's handle was there on the screenshot as part of instagram's UI. It was never separately mentioned. **Liv however**, had Mukta's PAGE AS A SEPARATE SCREENSHOT on their stories. The effort, the intentional action (you can't post a whole new story/screenshot and be unaware that you did it? unless specific situations like DID or psychosis?), the level of exposing is higher - don't agree with me here, fine. __This is not to argue who was "more wrong"__ as both can have very similar effects, and both now corrected, but just a comparision of what happened and the different reaction.)  
 
 <br>
 
