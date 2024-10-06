@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Phos and Mukta; Phos
-tags: ["updated: 2024-10-05"]
+tags: ["updated: 2024-10-05", "updated: 2024-10-06"]
 updated: 2024-10-05
 ---
 
