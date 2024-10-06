@@ -493,8 +493,8 @@ Also you can't be telling me "this is disporportionate, drop this immediately, L
 
 Mukta says: "a circle (kind of) should form, I a sexual harraser, any potential loss of life/livelihood/dignity as a natural consequence of my sexual harrasing is a natural consequence and cannot be accounted by those who I sexually harrassed (one manifestation of sexual violence -sexual harrasment) - for this to be true, I'd have to be a sexual harraser - for which to be true - my poem would have to be *insert words of the dominant culture*.  
 Now flip.  
-My poem is solely birthed from my lived experience aka 'mult opprsd in the Indian state' and is my reality, so the moment they believe my reality over their perception of my reality i.e my poem, I'd not be a sexual harraser and my potential loss of life cannot be called a natural consequence but instead becomes a violent oppressive attack and their entire basis/argument of me collapses.  
-Dominant culture not believing my reality (even if unable to understand) and forcing their perception of it on me is sanist and using that to is sanist and violently oppressively so, which is then used to create a false narrative of me being sexual harraser to justify any loss of life/livelihood/dignity of me as a natural consequence, is deeply violent, carceral, oppressive in nature and also enables and justifies(!)  further sexual violence on me as part of natural consequence."  
+My poem is solely birthed from my lived experience aka 'multiply oppressed in the Indian state' and is my reality, so the moment they believe my reality over their perception of my reality i.e my poem, I'd not be a sexual harraser and my potential loss of life cannot be called a natural consequence but instead becomes a violent oppressive attack and their entire basis/argument of me collapses.  
+Dominant culture not believing my reality (even if unable to understand) and forcing their perception of it on me is sanist and violently oppressively so, which is then used to create a false narrative of me being sexual harraser to justify any loss of life/livelihood/dignity of me as a natural consequence, is deeply violent, carceral, oppressive in nature and also enables and justifies(!) further sexual violence on me as part of natural consequence."  
 
 
 #### The public acknowledgement from Liv
@@ -562,7 +562,7 @@ We HAVE addressed this. The original post have said __Mukta caused harm__ and wi
 
 what we may "disagree" is how "serious" the hurt caused by Mukta is. people tell me that I'm understating it.  
 
-when you are telling me, that Liv's intention was not to hurt Mukta's fundraiser, Liv's intention was just to call Mukta in... BECAUSE I SEE MUKTA'S HUMANITY, I also can tell you, Mukta is a human with intentions too. Mukta's intention was not to trigger or hurt Liv. Mukta's intention was actually to apologise immediately, but they couldn't. Mukta's intention was they realise their mistake, they realise they triggered Liv and they shouldn't have.... see the circular argument? see the shifting goal post?  
+when you are telling me, that Liv's intention was not to hurt Mukta's fundraiser, Liv's intention was just to call Mukta in... BECAUSE I SEE MUKTA'S HUMANITY, I also can tell you, Mukta is a human with intentions too. Mukta's intention was not to trigger or hurt Liv. Mukta's intention was actually to apologise immediately, but they couldn't (not just because blocked, but also because they can't post this on their own page). Mukta's intention was they realise their mistake, they realise they triggered Liv and they shouldn't have, Mukta have apologised.... see the circular argument? see the shifting goal post?  
 Do you care about Mukta's humanity? do you believe Mukta as much as you believe a white person?  
 
 You can "conclude" "assume" Mukta doesn't have good intentions but when I tell you via my analysis that when I look at X behaviours, it seems Liv may not have good inentions, yall can't understand that. Yall would turn around and say "also, intention isn't everything."  
@@ -571,8 +571,7 @@ if you think Liv's intention holds weight and you don't treat Mukta's intention 
 Do you want Mukta to do some specific action? yall keep saying Mukta "needs to take accountability" __as if they didn't__, but they did, and the way that they did, isn't satisfactory. So is there something specific yall want them to do?  
 (If the anwser is "agree that the poem is violent" or something like that, see Mukta's comments & later analyses in the next blog post where we responded to this)
 
-And why Mukta needs to prove it to you? to make YOU satisfied? Is accountability established only when the other party is "satisfied"? (genuine question)  
-When you show us you won't be unless we reject Mukta's reality and accept YOUR version of reality that you want to prescribe to us?  
+And why Mukta needs to prove it to you? to make YOU satisfied? When you show us you won't be unless we reject Mukta's reality and accept YOUR version of reality that you want to prescribe to us?  
 
 and why does *this* suddenly have to be done YOUR WAY when Liv is free to choose whatever they do, always with an "understandable" reason? whatever Liv HAVE DONE yall have just accepted with zero requirements whatsoever which reinforces existing white neutrality?? (literally talked about this point in original post too)  
 
@@ -590,7 +589,7 @@ Why when I say something, it does not get interpreted as what I mean? and __yall
 That's what yall are and all yall know. But reflect and you may understand.  
 (This is NOT the same as insisting I mean something when I didn't mean it, to evade judgement or accountability. Example: I said stuff equivalent to "Liv should engage", and later I realised that was wrong, so I acknowledged and apologised. I AM able to see my mistakes. and I SHOULD BE able to tell you what I mean and have it be believed.)
 
-You seriously come to tell me, that Liv was emotionally hurt biiiiig time (VALID), and that dictates what level of apology, remorse Mukya or I should show, and how we should completely cater to Liv's comfort and THEIR understanding of reality even down to our own internal reality, and turn around and just tell me with a straight face that YOU DON"T THINK Mukta was "harmed as much as Liv"?? When Mukta or I tell you how hurt Mukta was, it's just apparently not worth believing? You're just gonna argue that away with your "logic"?  
+You seriously come to tell me, that Liv was emotionally hurt biiiiig time (VALID), and that dictates what level of apology, remorse Mukta or I should show, and how we should completely cater to Liv's comfort and THEIR understanding of reality even down to our own internal reality, and turn around and just tell me with a straight face that YOU DON"T THINK Mukta was "harmed as much as Liv"?? When Mukta or I tell you how hurt Mukta was, it's just apparently not worth believing? You're just gonna argue that away with your "logic"?  
 
 double standards. You don't see Mukta's humanity. WHITENESS.
 
@@ -605,12 +604,14 @@ I also didn’t say who “was racist” but I talked about how the whiteness pl
 It's about dominance and oppression. Not just race.  
 
 the construct of whiteness is played out in race (as in for example, a situation where people with different races are involved, like this one) yes but also is not quite the same as racism/race-based discrimination. I would say it's broader than racism and is the connecting factor for racism to be connected to other injustices and oppression like colonialism, imperialism and even capitalism patriarchy etc. (correct/fill me in if you have different thoughts/sources!)  
-For example, someone being non-white doesn’t exempt them from using or benefiting from whiteness, or have beliefs based on whiteness/coloniality.  
+For example, someone being non-white doesn’t exempt them from using or benefiting from whiteness, or have beliefs based on whiteness/coloniality. Whiteness doesn't come from your skin colour, it comes from what you're exposed to growing up/in your whole life, and how you position yourself in these values - are you "the whites" - the ones at the top? are you not one of them but try to share some white power? or are you completely buried underneath? And that exposure doesn't just happen in white countries/places.  
+
+Here specifically, why whiteness plays a part is also about Mukta being from and located in the global south*, and Liv (and supporters) being in the empirial core. So no, it's absolutely not just about race.  
 
 I don't have the most eloquent words here so I'll try to find some sources that talks more rigoriously about whiteness.  
 For now (because I'm chronically on instagram) I recommend [Asiatu](https://www.instagram.com/asiatu.coach) and [Joris](https://www.instagram.com/joris.lechene), it's social media content but these 2 definitely know what they're talking about.  
 
-AGAIN, try not to twist my words and use YOUR INTERPRETATION of it as the reality.  
+In conclusion, what happened to Mukta, the emotional harm caused to Mukta, DOES have to do with whiteness. If we were to unlearn whiteness, decolonise our minds, we have to SEE that this kind of shit usually favors the global north* (donimate culture) and disproportionately harms the global south*.
 
 
 #### "why make a whole post" "this level of response (is wrong)"

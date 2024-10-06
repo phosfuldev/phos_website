@@ -73,9 +73,9 @@ Me: ok, Liv doesn't have to respond. this I agree. I will post something later t
 
 C1: maybe you should’ve led with that… you do not appear to be equipped to navigate conversations around harm, abuse, and repair. You are engaging in abuse apologism, and these posts were a textbook example of a DARVO campaign. I seriously hope you both reflect and come to terms with the way you gaslighted me publicly in attempt to engage you in good faith, while defending a survivor who was violated with a sexually explicit message and condemned for refusing to engage with someone who sexually harassed them.
 
-Mukta (responding to C1): posting about it publically is their right, but bringing one's mutual aid into it is idk..
+Mukta (replying to C1): posting about it publically is their right, but bringing one's mutual aid into it is idk..
 
-Me (responding to C1): I realised my mistake, and it's still not good enough for yall 😂 yall are the same
+Me (replying to C1): I realised my mistake, and it's still not good enough for yall 😂 yall are the same
 
 C4: why did you send them that poem? what was your intent in sending something so explicit after (presumably) reading their account of SA? Why did you assume that would be welcome (which can be assumed as you provided no context nor CW)? If you just sent them that without reading their post, why would you do that? That is not safe behaviour. You must take accountability for that.
 
@@ -85,9 +85,11 @@ Me (replying to C4): see what Mukta said (screenshot) on my website
 
 C1: launching a DARVO campaign is not a mistake. You really should delete these posts. It remains unclear whether @Mukta understands that it’s not about the lack of CW, it’s about sexual harassment towards someone who was very public about their sexual assault. At this point, you both should apologize for wasting people’s time and energy trying to sort through abuse apology. You did not apologize to me for publicly gaslighting me in these comments while I tried (very generously) to break down why all of this is wrong.
 
-Me (responding to C1): i was more acknowledging and admitting, that me suggesting that "Liv should respond" is a mistake. me making this post was very intentional and absolutely not a mistake. I apologise for saying Liv should have responded.
+C1 (replying to Mukta): the fact that you're naming a rape fantasy as a resistance poem is truly off the mark and until you realise that, I don't think there's anything further to say but I haven't seen any accountability for you engaging in sexual harassment.
 
-Me (responding to C1): rape fantasy 😂😂😂 you defining Mukta's action for them. calm down pls. I started to make a new post to more deeply address these comments and I'm actually very close to being done but I'll add these 2 new ones too
+Me (replying to C1): i was more acknowledging and admitting, that me suggesting that "Liv should respond" is a mistake. me making this post was very intentional and absolutely not a mistake. I apologise for saying Liv should have responded.
+
+Me (replying to C1): rape fantasy 😂😂😂 you defining Mukta's action for them. calm down pls. I started to make a new post to more deeply address these comments and I'm actually very close to being done but I'll add these 2 new ones too
 
 C1: your responses are disturbing. It is clear that you nor anyone else are going to keep Mukta accountable and quite frankly, y’all deserve each other. I personally wouldn’t weaponize my identity after sexually harassing someone and launch a DARVO campaign against a survivor of sexual assault but that’s just me.
 
@@ -95,7 +97,7 @@ Me: keep Mukta accountable for the thing yall made up. Sure
 
 C3: That we made up? You literally shared the full text of the poem which is sexually explicit and in the first person. Sharing unsolicited sexual material is at the very least a violation. Anyone who received that poem with no context, warning, or consent would believe this is someone sharing unsolicited sexual fantasies. Again I find it very disturbing how much you are willing to dismiss the nature of this and use positionality and identity to obfuscate sexual violence.
 
-Me (responding to C3): I'm not dismissing it I'm trying to tell you it was already addressed (in part 1). I just posted something new related so feel free to read. I have to go now though
+Me (replying to C3): I'm not dismissing it I'm trying to tell you it was already addressed (in part 1). I just posted something new related so feel free to read. I have to go now though
 
 Mukta: also, more info(?), poem was written that day and shared to my stories as usual and shared to few ppl including liv. And yes I should have asked or given a warning/note at least as , as a survivor i understand feeling triggered and yet i didn't practice this that time which i should have
 
