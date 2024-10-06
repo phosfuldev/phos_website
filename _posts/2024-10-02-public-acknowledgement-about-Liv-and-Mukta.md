@@ -652,7 +652,7 @@ But yall all come to Liv's defense and call us victim blaming.
 
 Yall believe Liv without question, and don't believe us. Simple.  
 
-(Also... I didn't intend to go out of my way to include Liv's handle, Liv's handle was there on the screenshot as part of instagram's UI. It was never separately mentioned. **Liv however**, had Mukta's PAGE AS A SEPARATE SCREENSHOT on their stories. The effort, the intentional action (you can't post a whole new story/screenshot and be unaware that you did it? unless specific situations like DID or psychosis?), the level of exposing is higher - don't agree with me here, fine. __This is not to argue who was "more wrong"__ as both can have very similar effects, and both now corrected, but just a comparision of what happened and the different reaction.)  
+(Also... I didn't intend to go out of my way to include Liv's handle, Liv's handle was there on the screenshot as part of instagram's UI. It was never separately mentioned. **Liv however**, had Mukta's PAGE AS A SEPARATE SCREENSHOT on their stories. The effort, the intentional action (you can't post a whole new story/screenshot and be unaware that you did it? unless specific situations?), the level of exposing is higher - don't agree with me here, fine. __This is not to argue who was "more wrong"__ as both can have very similar effects, and both now corrected, but just a comparision of what happened and the different reaction.)  
 
 <br>
 
