@@ -24,9 +24,9 @@ Images have alt text.
 
 ### [Part 1. The Original post](#original-post)
 
--- Note: This section is the unedited version of original blog post (posted to the public on 2024-10-02 (AEST)) (Unedited except screenshots) which is a copy of the instagram posts --  
--- the original instagram posts have been deleted to remove identifying information. --  
--- It is now reposted on instagram but the repost only mentions the website but no longer include the content of the ogirinal post. --  
+> Note: This section is the unedited version of original blog post (posted to the public on 2024-10-02 (AEST)) (Unedited except screenshots) which is a copy of the instagram posts  
+> the original instagram posts have been deleted to remove identifying information.  
+> It is now reposted on instagram but the repost only mentions the website but no longer include most of the content of the original post.  
 
 This is a copy/archive of an instagram post I (and Mukta) made (well, technically 2 posts, because it was too long), with some parts slightly edited for the website reading experience, and even more details that we couldn't add to the post itself - "reciepts", so to say - to the end.  
 
