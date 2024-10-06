@@ -671,7 +671,7 @@ The comments directed at me caused harm to me.
 (but now do there bringers of justice care about that? they think we deserve as much shit they can throw at us, as soon as we failed their compliance test. talk about "the post is too much" but your comments, which is received by real people too, is VILE. This is the signature of double standards and oppression and whiteness.)  
 
 I also talked with 1 person in DMs in which the person called me "insane" and "delusional", demanded to talk to me and not Mukta, asked me questions like an interrogation (which after I answer they mostly ignore that point and not respond), demanded me to take the post down, say I'm wasting my time, AND MORE, while they made wild assumptions about the situation that they took as REALITY and was NOT going to change their MIND when new information was presented - audacity??  
-This person is active in organising and mutual aid in Narrm. If you'd like to know I can tell you who it is.  
+This person is active in organising and mutual aid in Narrm. I don't know them irl but if anyone like to know I can tell you the ig account they used to dm me.  
 
 I really have more to say about the comments and interactions but I'll refrain and only talk about those in the designated place. (Honestly at this point I don't know if I'll be repsponding to the comments more specifically as it's taken too much of my time and energy and it's starting to feel draining.)  
 
