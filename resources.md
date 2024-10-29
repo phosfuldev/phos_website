@@ -13,7 +13,7 @@ Recommendations welcome.
 
 <br>
 
-#### First Nations Orgs/peoples  
+#### First Nations Orgs/Peoples  
 
 Black Peoples Union: [Website](https://www.blackpeoplesunion.org/) | [Instagram](https://www.instagram.com/blackpeoplesunion) | [Youtube](https://www.youtube.com/@blackpeoplesunion)  
 Yoorrook: [Instagram](https://www.instagram.com/yoorrook)  
@@ -125,7 +125,7 @@ Rise: [Instagram](https://www.instagram.com/riotous_roots)
 There are so much more than what's in this list, reach out if you are looking for anything specific. These pages' linktree are also great resources.
 
 
-#### Direct Action groups (in so called Aus) & related
+#### Direct Action groups (in so called aus) & related
 
 Disrupt Wars: [Instagram](https://www.instagram.com/disruptwars)  
 Blockade Australia: [Instagram](https://www.instagram.com/blockade.australia) | [Website](https://www.blockadeaustralia.com/)  
@@ -219,7 +219,7 @@ Li An Phoa (Drinkable Rivers): [Instagram](https://www.instagram.com/drinkableri
 Free public transport for people with certain mental health conditions - [PTV](https://www.ptv.vic.gov.au/tickets/myki/concessions-and-free-travel/access-travel-pass) (you would need a doctor or psychologist or OT to fill out some questions; a certain diagnosis is not required)
 
 
-#### Podcasts, video essays, blogs, and single articles
+#### Podcasts, video essays, blogs, and articles
 
 [Why Misogynists Make Great Informants](https://truthout.org/articles/why-misogynists-make-great-informants/) MUST READ!!!!!
 

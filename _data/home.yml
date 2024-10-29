@@ -2,6 +2,9 @@ navbar_entries:
   - title: 关于本站 (中文/chinese)
     url: index-chinese
 
+  - title: current mutual aid
+    url: current_mutual_aid
+
   - title: blog
     url: blog 
     # can be actual URL

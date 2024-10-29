@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<h1>Current Mutual Aid Requests</h1>
+
+<p>All images have alt text.</p>
+
+<p>I'm trying to code in a random highlight MA of the day - it's coming soon!</p>
+
+<!-- todo: section for random highlight -->
+
+
+<!-- section for full list -->
+
+<h2>Full List of All Campaigns</h2>
+
+{% if site.data.current_mutual_aid.campaigns.size > 0 %}
+  <ul>
+    {% for c in site.data.current_mutual_aid.campaigns %}
+      <li class="post-list-item">
+        <p>Campaign {{c.ID}}: {{ c.name }}</p>
+        
+        {% if c.image != null %}
+            <img src="{{c.image}}" alt="{{c.image_description}}">
+            <!-- todo: add css for desktop only: style="width: 80%; height: auto" -->
+        {% endif %}
+        
+        <p>Goal: {{ c.goal }}</p>
+
+        {% if c.link != null %}
+            <a href="{{ c.link }}">Donation Link</a>
+        {% endif %}
+
+        {% if c.description != null %}
+            <br> <span style="color: #74c0fc">Further information: </span> <span>{{c.description}}</span>
+        {% endif %}
+
+      </li>
+      <hr>
+    {% endfor %}
+  </ul>
+{% endif %}
