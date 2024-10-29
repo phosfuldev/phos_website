@@ -11,14 +11,15 @@ Recommendations welcome.
 * This will become a table of contents
 {:toc}
 
-#### First Nations Orgs/peoples:  
+<br>
+
+#### First Nations Orgs/peoples  
 
 Black Peoples Union: [Website](https://www.blackpeoplesunion.org/) | [Instagram](https://www.instagram.com/blackpeoplesunion) | [Youtube](https://www.youtube.com/@blackpeoplesunion)  
 Yoorrook: [Instagram](https://www.instagram.com/yoorrook)  
 Indigenous X: [Instagram](https://www.instagram.com/indigenousx)  
 Dreamtime Aroha: [Instagram](https://www.instagram.com/dreamtime_aroha)  
-Keiran Stewart-Assheton: [Instagram](https://www.instagram.com/keiran_stewart_assheton)  
-Pay The Rent: [Website](https://paytherent.net.au/) | [Instagram](https://www.instagram.com/grassroots_ptr)  
+Keiran Stewart-Assheton: [Instagram](https://www.instagram.com/keiran_stewart_assheton)   
 Sisters Inside: [Website](https://sistersinside.com.au/) | [Instagram](https://www.instagram.com/sisters_inside_inc)  
 Decolonise SW: [Instagram](https://www.instagram.com/decolonisesexworkau)  
 Vic Aboriginal Legal Service: [Instagram](https://www.instagram.com/vicaboriginallegalservice) | [Website](https://www.vals.org.au/)  
@@ -27,12 +28,13 @@ Renay (firstnations_feminist): [Instagram](https://www.instagram.com/firstnation
 Raze The Cage (Cin): [Instagram](https://www.instagram.com/razethecage) | [Youtube](https://www.youtube.com/@razethecage)  
 Blak Pearl Studio: [Instagram](https://www.instagram.com/blakpearlstudiofitzroy)  
 Dhadjowa Foundation: [Website](https://dhadjowa.com.au/) | [Instagram](https://www.instagram.com/dhadjowa_foundation)  
+Pay The Rent: [Website](https://paytherent.net.au/) | [Instagram](https://www.instagram.com/grassroots_ptr)  
 Old Country Calling: [Instagram](https://www.instagram.com/old.country.calling)  
 Camp Sovereignty: [Instagram](https://www.instagram.com/campsovereignty)  
 Aboiginal Tent Embassy: [Website](https://aboriginalembassy.com/) | [Instagram](https://www.instagram.com/aboriginaltentembassy) | [Facebook](https://www.facebook.com/atesovereignty)  
 Close Don Dale: [Instagram](https://www.instagram.com/close.don.dale)  
 
-#### Gaza Fundraising and Aid:  
+#### Gaza Fundraising and Aid  
 
 Gaza Funds: [Website](https://gazafunds.com/) | [Instagram](https://www.instagram.com/gaza.funds)  
 Operation Olive Branch: [Instagram](https://www.instagram.com/operationolivebranch) | [List of funds](https://docs.google.com/spreadsheets/d/1vtMLLOzuc6GpkFySyVtKQOY2j-Vvg0UsChMCFst_WLA/htmlview)  
@@ -50,7 +52,7 @@ Give for Gaza: [Instagram](https://www.instagram.com/giveforgaza) - Raffle
 See end of this page for more smaller-scale projects that boosts and helps with Gaza fundraisers.
 
 
-#### Other International Crisis Aid:
+#### Other International Crisis Aid
 
 Please let me know anything else I should add.
 
@@ -64,13 +66,13 @@ Sudan Family Evacuation & Safety Fund: [GoFundMe](https://gofund.me/215397a1)
 **DR Congo:**  
 Friends of the Congo: [Instagram](https://www.instagram.com/congofriends)  
 
-
+**Other**  
 Free Kanaky Solidarity Naarm: [Instagram](https://www.instagram.com/freekanakysolidarity.naarm) - Fundraisers, events, updates
 
 
-#### More Mutual Aid (Local to so-called australia):
+#### More Mutual Aid (Local to so-called australia)
 
-These are sometimes overlapping with the above but also focus on local mutual aid needs. If you need help feel free to reach out to any of them or me!! 
+These are sometimes overlapping with the above but also focus on local mutual aid needs. If you need help feel free to reach out to them or me!! 
 
 Dreamtime Aroha: [Instagram](https://www.instagram.com/dreamtime_aroha)  
 Decolonise SW: [Instagram](https://www.instagram.com/decolonisesexworkau)  
@@ -79,16 +81,15 @@ Geddit.here: [Instagram](https://www.instagram.com/geddit.here)
 Raze The Cage (Cin): [Instagram](https://www.instagram.com/razethecage)  
 thefaemanifesto: [Instagram](https://www.instagram.com/thefaemanifesto)  
 Close Don Dale: [Instagram](https://www.instagram.com/close.don.dale)  
-
 Ex Detainees (RISE): [Instagram](https://www.instagram.com/ex_detainees) | [Donate](https://www.givenow.com.au/riserefugee)  
-Mutual Aid So Called OZ: **NOTE:** they're offline at this moment! But you are encouraged to look through the campaigns still on the page as they're still active. [Instagram](https://www.instagram.com/mutualaidsocalledoz) | [Comprehensive list of campaigns](https://linktr.ee/mutualaidSCa)  
-rosie.mutual.aid: [Instagram](https://www.instagram.com/rosie.mutual.aid) (follow her other accounts too as she is being restricted!) | [Fanbase](https://www.fanbase.app/@rosi.e.h)  
+Mutual Aid So Called OZ: (**NOTE:** they're offline at this moment! But you are encouraged to look through the campaigns still on the page as they're still active.) [Instagram](https://www.instagram.com/mutualaidsocalledoz) | [Comprehensive list of campaigns](https://linktr.ee/mutualaidSCa)  
+rosie.mutual.aid: [Instagram](https://www.instagram.com/rosie.mutual.aid) | [Fanbase](https://www.fanbase.app/@rosi.e.h)  
 we.are_all.we.need: [Instagram](https://www.instagram.com/we.are_all.we.need)
 
 There are many other individual accounts that are running mutua aid, but for anonymity I will not list them here. If you need help or would like to get involved, let me know!  
 
 
-#### More Mutual Aid (International, non-aus):
+#### More Mutual Aid (International, non-aus)
 
 If you want to contribute to mutual aid outside of so-called aus, check these people and the campaigns they're supporting!
 If you need help and you are not in so-called aus, look through the list and see if you can find help from these people! 
@@ -98,15 +99,15 @@ Boudia: [Instagram](https://www.instagram.com/punkwitchdiviner)
 misterladybear: [Instagram](https://www.instagram.com/misterladybear)  
 Peaceful Life Project: [Instagram](https://www.instagram.com/peacefullifeproject) - "Mutual aid by and for Survivor-abolitionists"  
 Horizontal Power: [Instagram](https://www.instagram.com/horizontal.power)  
-Fringe Mutual Aid: [Instagram](https://www.instagram.com/fringe_mutual_aid)
-siyá's mutual aid account: [Instagram](https://www.instagram.com/kuyakilljoy/)
-rosie.mutual.aid: [Instagram](https://www.instagram.com/rosie.mutual.aid) (follow her other accounts too as she is being restricted!) | [Fanbase](https://www.fanbase.app/@rosi.e.h)  
+Fringe Mutual Aid: [Instagram](https://www.instagram.com/fringe_mutual_aid)  
+siyá's mutual aid account: [Instagram](https://www.instagram.com/kuyakilljoy/)  
+rosie.mutual.aid: [Instagram](https://www.instagram.com/rosie.mutual.aid) | [Fanbase](https://www.fanbase.app/@rosi.e.h)  
 Renn: (**NOTE:** they're inactive or locked out of this account atm) [Instagram](https://www.instagram.com/perennialautonomy)  
-River: (**Note:** not taking dm requests)[Intagram](https://www.instagram.com/river11.11) [Backup Insta](https://www.instagram.com/go.with.the.flow22)  
-little_sleazers (**Note:** no cold DMs please): [Intagram](https://www.instagram.com/little_sleazers)
+River: (**Note:** not taking dm requests)[Intagram](https://www.instagram.com/river11.11) | [Backup Insta](https://www.instagram.com/go.with.the.flow22)  
+little_sleazers (**Note:** no cold DMs please): [Intagram](https://www.instagram.com/little_sleazers)  
 Phizzi (**Note:** only tag no DMs): [Intagram](https://www.instagram.com/shartreuse1312)
 
-#### Covid educators and activists:
+#### Covid educators and activists
 
 Pandemic Resistance: [Website](https://www.pandemicresistance.org/) | [Instagram](https://www.instagram.com/pandemicresistanceinc)  
 Covid Action Map: [Map](https://www.google.com/maps/d/u/1/viewer?mid=1oUcoZ2njj3b5hh-RRDCLe-i8dSgxhno&ll=19.51380803246727%2C0&z=1) (short link: covidactionmap.org) | [Instagram](https://www.instagram.com/covidactionmap)  
@@ -124,7 +125,7 @@ Rise: [Instagram](https://www.instagram.com/riotous_roots)
 There are so much more than what's in this list, reach out if you are looking for anything specific. These pages' linktree are also great resources.
 
 
-#### Direct Action groups (in so called Aus) & related:
+#### Direct Action groups (in so called Aus) & related
 
 Disrupt Wars: [Instagram](https://www.instagram.com/disruptwars)  
 Blockade Australia: [Instagram](https://www.instagram.com/blockade.australia) | [Website](https://www.blockadeaustralia.com/)  
@@ -138,16 +139,15 @@ Legal Ovservers Melb: [Instagram](https://www.instagram.com/melbactivistlegal) |
 RAHU (Renters And Housing Union): [Website](https://www.rahu.org.au) | [Instagram](https://www.instagram.com/rahu_national)  
 
 
-#### Mad Liberation & adjacent:
+#### Mad Liberation & adjacent
 
 Pat.radical.therapist: [Instagram](https://www.instagram.com/pat.radical.therapist)  
 crutches and spice: [Instagram](https://www.instagram.com/crutches_and_spice) (she's also on tiktok! But I don't use tiktok)  
 neuroabolition: [Instagram](https://www.instagram.com/neuroabolition)  
 siyá/Derrick (drrckqvdo): [Instagram](https://www.instagram.com/drrckqvdo)  
-Candice Alaska: [Instagram](https://www.instagram.com/candicealaska) | Tubmlr | website  
+Candice Alaska: [Instagram](https://www.instagram.com/candicealaska) | [Patreon](https://www.patreon.com/RadicalSurvivorSpace) | [Tubmlr](https://love-notes-to-survivors.tumblr.com) | [website](https://www.candicealaska.com)  
 psychosis pso-sitivity: [Instagram](https://www.instagram.com/psychosispsositivity)  
-Madness is radical (Nicole): [Instagram](http://www.instagram.com/madnessisradical)  
-spectaculaur thoughts (Laurel Lilith): [Instagram](http://www.instagram.com/spectaculaurthoughts)  
+spectaculaur thoughts: [Instagram](http://www.instagram.com/spectaculaurthoughts)  
 Neuromancers: [Instagram](https://www.instagram.com/neuromancers_)  
 stronger U: [Instagram](https://www.instagram.com/strongeruwellness)  
 embracing.ambiguity(s): [Personal Instagram](https://www.instagram.com/embracing.ambiguity) | [Mad In Boston](https://www.instagram.com/madinboston/)  
@@ -155,9 +155,9 @@ embracing.ambiguity(s): [Personal Instagram](https://www.instagram.com/embracing
 PLEASE recommend more people for me to know & put here!!
 
 
-#### liberatory mental health content:
+#### liberatory mental health content
 
-This list technically should also contain the people above (this is like the bigger circle and the above is a smaller circle, that's how it is in my head). This list is people who don't specifically talk about Mad Liberation or abolition but is otherwise well informed and liberatory.
+This list is people who don't specifically/explicitly talk about Mad Liberation or abolition but is otherwise well informed and liberatory.
 
 Maria Fakhouri (Palestinian therapist): [Instagram](http://www.instagram.com/mar._unfiltered)  
 Palestinian Mental Health & Welness: [Instagram](http://www.instagram.com/palmhnwellness)  
@@ -172,11 +172,11 @@ Inclusive Therapists: [Instagram](http://www.instagram.com/inclusivetherapists)
 Critical Conscious Counseling: [Instagram](https://www.instagram.com/critical.conscious.counseling)  
 the suicide doula: [Instagram](http://www.instagram.com/the_suicidedoula)  
 cait.deatheducation: [Instagram](https://www.instagram.com/cait.deatheducation)  
-Aware Care Library (Created by Cait): [Website](https://www.awarecarelibrary.com) | [Instagram](http://www.instagram.com/awarecarelibrary) 
+Aware Care Library (Created by Cait): [Website](https://www.awarecarelibrary.com) | [Instagram](http://www.instagram.com/awarecarelibrary)  
 softcore_trauma: [Instagram](http://www.instagram.com/softcore_trauma)  
 
 
-#### autistic community:
+#### autistic community
 
 These people are not necessarily including decolonisation and liberatory values in their content (the ones that do are in corresponding above lists), some of them even never mention anything "political", so be careful. But their content can still be helpful in other ways, especially if you are new to the journey of discovering you may be neurodivergent.
 
@@ -189,12 +189,12 @@ The Auti Anthology: [Instagram](https://www.instagram.com/auti_anthology) - very
 autisticasfxxk: [Instagram](https://www.instagram.com/autisticasfxxk)
 
 
-#### Other things/people you should know: 
+#### Other things/people you should know 
 
 Sudan Updates: [Instagram](https://www.instagram.com/sudan.updates)  
 King Curry (bespokecurry): [Instagram](https://www.instagram.com/bespokecurry)  
 
-Justice Mayanija (queer refugees located in Kakuma, Kenya): [Instagram](https://www.instagram.com/justicemayanja) | [GoFundMe](https://gofund.me/bd6c766d) - Need help rn making a new GFM!! & Always need donations & boosting  
+Justice Mayanija (queer refugees located in Kakuma, Kenya): [Instagram](https://www.instagram.com/justicemayanja) / [GoFundMe](https://gofund.me/bd6c766d) - Need help rn making a new GFM!! & Always need donations & boosting  
 
 **Political Education:**  
 badschoolbadschool: [Instagram](https://www.instagram.com/badschoolbadschool/)  
@@ -205,11 +205,13 @@ Butter: [Instagram](https://www.instagram.com/buttereffectunplugged)
 **Disability:**  
 Sam Petersen: [Instagram](https://www.instagram.com/sampetercine) | [Website](https://www.sampetersen.com.au/) 
 
-
+**Other**  
 Li An Phoa (Drinkable Rivers): [Instagram](https://www.instagram.com/drinkablerivers)  
 
 
-**-- instagram accounts section over --**  
+<br>
+**-- instagram accounts section now over --**  
+<br>
 
 
 #### Helpful Resources & Info
@@ -230,7 +232,7 @@ Post-Scarcity Podcast: [Instagram](https://www.instagram.com/postscarcitypod)
 [Zine - Untying the knot](https://libcom.org/library/untying-the-knot) (apparently this link doesn't work but im sure i can find it right)
 
 
-#### More pages/people that boosts Gaza fundraisers:
+#### More pages/people that boosts Gaza fundraisers
 
 Gaza Funds: [Website](https://gazafunds.com/) | [Instagram](https://www.instagram.com/gaza.funds)  
 Operation Olive Branch: [Instagram](https://www.instagram.com/operationolivebranch) | [List of funds](https://docs.google.com/spreadsheets/d/1vtMLLOzuc6GpkFySyVtKQOY2j-Vvg0UsChMCFst_WLA/htmlview)  
