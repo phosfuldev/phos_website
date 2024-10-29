@@ -6,7 +6,7 @@ Hi I'm Phos!
 
 I'm a 20-something Chinese femme living on unceded land of the Wurundjeri People (so called melbourne, australia).  
 
-I like to think about things, connect dots, draw patterns. And I try to do some online organising, mainly mutual aid.
+I like to think about things, connect dots, draw patterns. I also try to make myself useful by doing mutual aid.
 
 
 ##### Intentions
