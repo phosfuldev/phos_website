@@ -7,7 +7,8 @@ campaigns:
     goal: min $850 every week (needed by Monday)
     image: "/assets/images/MA_tile_for_S_24_09_2024.jpg"
     image_description: >
-      An image with speckled aqua, blue and yellow background. There is a title at the top reading "mutual aid request" followed by the subheading "Funds for housing & essentials for S and her dog". There is a cartoon dog with a love heart on the right of title and more love hearts on the left. There are three text boxes underneath this, the large text box on the left reads: "S had been unhoused for 10 years and recently secured housing thanks to the mutual aid community. She and her dog are now living in their new place, and need ongoing assistance with funds for rent, food and other essentials, and for both of their medication. S is facing health issues and going through medical treatments, and has a lot of rest she needs to catch up on. she has been going out to try and make some money and it's been severely impacting her health. The more we step up the more she can rest and heal." Two smaller text boxes that are stacked on the right hand side read: "Goal - $850 a week. Read the Chuffed campaign for more information about S and her situation, and a breakdown of funds needed." And: "Transfer details: Name: SL. bsb: 063 023. account: 1028 0427. Or send to the Chuffed campaign (linked in bio and in caption)"
+      An image with speckled aqua, blue and yellow background. There is a title at the top reading "mutual aid request" followed by the subheading "Funds for housing & essentials for S and her dog". There is a cartoon dog with a love heart on the right of title and more love hearts on the left. There are three text boxes underneath this, the large text box on the left reads: "S had been unhoused for 10 years and recently secured housing thanks to the mutual aid community. She and her dog are now living in their new place, and need ongoing assistance with funds for rent, food and other essentials, and for both of their medication. S is facing health issues and going through medical treatments, and has a lot of rest she needs to catch up on. she has been going out to try and make some money and it's been severely impacting her health. The more we step up the more she can rest and heal." Two smaller text boxes that are stacked on the right hand side read: "Goal - $850 a week. Read the Chuffed campaign for more information about S and her situation, and a breakdown of funds needed." And: "Transfer details: Name: SL. bsb: 063023. account: 10280427. Or send to the Chuffed campaign (linked in bio and in caption)"
+    bank_details: "Name: S L; bsb: 063023; account: 10280427"
     link: https://www.chuffed.org/project/115620-help-dv-survivor-stay-housed-and-continue-medical-treatments
     urgency: 1
 
@@ -17,6 +18,7 @@ campaigns:
     image: "/assets/images/MA_tile_Mukta_08_10_2024.jpg"
     image_description: >
       Lilac background with graphics and colourful text boxes on top. Title says: "Queer, Disabled, Mad, Neurodivergent Comrade needs our help!". The next text box says "Mukta is experiencing domestic violence and rely on mutual aid to sustain themselves. The situation is escalating and they are even less safe than before." The next section out lines the goal in USD and has a number line with $300, $600, $900 marked on the line. There are tick boxes under the line, the one under "$300" has been ticked with green. The last text box states ways of transferring: "Paypal: muktamalini141592@gmail.com; aus* bank deets: name: P L. bsb: 313140. acc: 12493383." There is a graphic of a brown non binary person with short hair wearing a teal shirt on the top-right of the tile.
+    bank_details: "name: P L; bsb: 313140; acc: 12493383"
     link: https://ko-fi.com/em141592/shop
     urgency: 1
 
@@ -35,6 +37,7 @@ campaigns:
     image: "assets/images/MA_tile_FN_father_28_10_2024.jpg"
     image_description: >
       Tile split from the middle into 4 sections, coloured in yellow, red and black. First section says: "mutual aid request. support First Nations father find stable housing". Second section says: "funds will be used to cover rental bond & other costs associated with helping provide safe & stable housing for a First Nations father & his child. He has been sleeping rough and any donations are greatly appreciated." Third section says: "Goal: $2000" Fourth section is the transfer method: "Acc name: M L. BSB: 063149. Acc number: 10514520. Ref: Bond."
+    bank_details: "Acc name: M L; BSB: 063149; Acc number: 10514520; Ref: Bond"
     link: 
     urgency: 2
 

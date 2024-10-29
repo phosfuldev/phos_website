@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<a href="{{ "/" | relative_url }}">{{ site.theme_config.back_home_text }}</a>
+
 <h1>Current Mutual Aid Requests</h1>
 
 <p>All images have alt text.</p>
@@ -28,6 +30,10 @@ layout: default
         
         <p>Goal: {{ c.goal }}</p>
 
+        {% if c.bank_details != null %}
+            <p>Bank Details (hold down to copy): {{ c.bank_details }}</p>
+        {% endif %}
+        
         {% if c.link != null %}
             <a href="{{ c.link }}">Donation Link</a>
         {% endif %}
