@@ -22,24 +22,50 @@ campaigns:
     link: https://ko-fi.com/em141592/shop
     urgency: 1
 
-  - ID: 3
-    name: Help an Aboriginal Elder cover Funeral costs for his son.
-    goal: $15,000
-    image: "assets/images/MA_tile_FN_elder_son_funeral_28_10_2024.jpg"
+  - ID: 
+    name: 
+    goal: 
+    description: 
+    image: 
     image_description: >
-      Background image of 2 Indigenous people, with some orange-yellow gradient colour blob covering the left side of the picture. Text on top reads: "Mutual aid. Donate to help an Aboriginal Elder on the age pension cover funeral costs for his olders son." Below the text there is a QR code to the GoFundMe Campaign and the text link for the campaign.
-    link: https://gofund.me/1de0fc75
-    urgency: 2
-
-  - ID: 4
-    name: Support First Nations father find stable housing
-    goal: $2000
-    image: "assets/images/MA_tile_FN_father_28_10_2024.jpg"
-    image_description: >
-      Tile split from the middle into 4 sections, coloured in yellow, red and black. First section says: "mutual aid request. support First Nations father find stable housing". Second section says: "funds will be used to cover rental bond & other costs associated with helping provide safe & stable housing for a First Nations father & his child. He has been sleeping rough and any donations are greatly appreciated." Third section says: "Goal: $2000" Fourth section is the transfer method: "Acc name: M L. BSB: 063149. Acc number: 10514520. Ref: Bond."
-    bank_details: "Acc name: M L; BSB: 063149; Acc number: 10514520; Ref: Bond"
     link: 
-    urgency: 2
+    urgency:
+
+  - ID: 
+    name: 
+    goal: 
+    description: 
+    image: 
+    image_description: >
+    link: 
+    urgency:
+
+  - ID: 
+    name: 
+    goal: 
+    description: 
+    image: 
+    image_description: >
+    link: 
+    urgency:
+
+  - ID: 
+    name: 
+    goal: 
+    description: 
+    image: 
+    image_description: >
+    link: 
+    urgency:
+
+  - ID: 
+    name: 
+    goal: 
+    description: 
+    image: 
+    image_description: >
+    link: 
+    urgency:
 
   - ID: 
     name: 
