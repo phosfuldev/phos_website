@@ -163,7 +163,7 @@ Maria Fakhouri (Palestinian therapist): [Instagram](http://www.instagram.com/mar
 Palestinian Mental Health & Welness: [Instagram](http://www.instagram.com/palmhnwellness)  
 Dra. Rocio Rosales Meza: [Instagram](http://www.instagram.com/dr.rosalesmeza)  
 Decolonizing therapy: [Instagram](http://www.instagram.com/decolonizingtherapy)  
-asiatu.coach: [Instagram](https://www.instagram.com/asiatu.coach)  
+asiatu.coach: [Instagram](https://www.instagram.com/asiatu.coach) | [Kofi](https://ko-fi.com/asiatucoach) | [Website](https://www.asiatucoach.com/)  
 Kai Cheng Thom: [Instagram](http://www.instagram.com/kaichengthom)  
 Leah Manaema: [Instagram](http://www.instagram.com/co_cu1tur3)
 Blackfulla Alt2Su: [Instagram](https://www.instagram.com/blackfullaalt2su)   
