@@ -292,7 +292,7 @@ This incident cannot be reduced to only a trauma response for this reason. That 
 
 4. community and movement NEEDS open discussions, disagreements, to go forward. Also, when someone cuts someone off, when “drama” happens, notice most of the time who still have access to community support and spaces regardless what happened, and who now needs to tiptoe to get support (material or emotional).  
 
-These “lessons” points I have seen many people like [Butter](https://www.instagram.com/buttereffectunplugged), [Asiatu](https://www.instagram.com/asiatu.coach), [Candice](https://www.instagram.com/candicealaska), [Nat](https://www.instagram.com/namaca___) talk about, just recently, and many others over time. Just giving credit where credit is due!
+These “lessons” points I have seen many people like [Butter](https://www.instagram.com/buttereffectunplugged), [Asiatu](https://www.instagram.com/asiatu.coach), [Candice](https://www.instagram.com/candicealaska) talk about, just recently, and many others over time. Just giving credit where credit is due!
 
 We can all use these broader points to reflect how we are going to deal with mistakes and repair. I'm not going to be super specific here but I'm happy to elaborate if people want.  
 
