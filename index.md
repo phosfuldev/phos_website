@@ -14,7 +14,7 @@ Here are a few [house rules](https://phosworld.xyz/house-rules) for this website
 
 #### welcome~ have a look around
 
-The "**current mutual aid**" section is Another place you can go to when you want to contribute and find the information. Numbers here are also easier to copy than from instagram :)  
+The "**current mutual aid**" section is Another place on the internets you can go to when you want to contribute and find the information. Numbers here are also easier to copy than from instagram :)  
 
 Long form writing will be in the "**blog**" section, and short & not-yet-developed but maybe interesting thoughts will be in the "**fragments**" section - right now it's just a copy of stuff I said on my stories and other social media and even from chats with people, sort of as a backup.  
 
