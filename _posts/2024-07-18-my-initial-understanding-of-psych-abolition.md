@@ -4,7 +4,7 @@ author: Phos
 tags: [mental health, psych abolition]
 ---
 
-Just want to share what I have learned so far.
+Just want to quickly share what I have learned so far.
 
 Lists are non-exhaustive.
 
