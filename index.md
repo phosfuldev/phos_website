@@ -4,9 +4,10 @@ layout: home
 
 Hi I'm Phos/磷!  
 
-I'm a 20-something Chinese femme living on unceded land of the Wurundjeri and Boonwurung People (so called melbourne, australia).  
+I'm a 20-something Chinese person living on unceded land of the Wurundjeri and Boonwurung People (so called melbourne, australia).  
+(after recent research, I think I'm on the "boarder of these 2 lands... pretty cool)  
 
-I like to think about things, connect dots, draw patterns. I also try to make myself useful by doing mutual aid.
+I'm an aspiring artist and community organiser.
 
 Here are a few [house rules](https://phosworld.xyz/house-rules) for this website project & online interactions with me in general.  
 
