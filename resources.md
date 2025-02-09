@@ -174,7 +174,7 @@ the suicide doula: [Instagram](http://www.instagram.com/the_suicidedoula)
 cait.deatheducation: [Instagram](https://www.instagram.com/cait.deatheducation)  
 Aware Care Library (Created by Cait): [Website](https://www.awarecarelibrary.com) | [Instagram](http://www.instagram.com/awarecarelibrary)  
 softcore_trauma: [Instagram](http://www.instagram.com/softcore_trauma)  
-
+HOLD peer support coalition: [Instagram](http://www.instagram.com/hold.coalition)
 
 #### autistic community
 
@@ -234,8 +234,10 @@ Post-Scarcity Podcast: [Instagram](https://www.instagram.com/postscarcitypod)
 
 #### More pages/people that boosts Gaza fundraisers
 
+**NOTE: recent developments showed that Operation Olive Branch is not safe so I have removed their links**
+
 Gaza Funds: [Website](https://gazafunds.com/) | [Instagram](https://www.instagram.com/gaza.funds)  
-Operation Olive Branch: [Instagram](https://www.instagram.com/operationolivebranch) | [List of funds](https://docs.google.com/spreadsheets/d/1vtMLLOzuc6GpkFySyVtKQOY2j-Vvg0UsChMCFst_WLA/htmlview)  
+rosie.mutual.aid: [Instagram](https://www.instagram.com/rosie.mutual.aid) 
 Banyule Palestine Action Group: [Instagram](https://www.instagram.com/banyulepalestineactiongroup)  
 The Pali Pals: [Instagram](https://www.instagram.com/pali.pals)  
 Bees and Watermelons: [Instagram](https://www.instagram.com/beesandwatermelons)  
@@ -246,10 +248,7 @@ Direct Your Tax: [Instagram](https://www.instagram.com/direct_your_tax)
 Uplift Gaza: [Instagram](https://www.instagram.com/uplift.gaza) - new funds each week  
 Nillumbik4Palestine: [Instagram](https://www.instagram.com/nillumbik4palestine)
 
-rosie.mutual.aid: [Instagram](https://www.instagram.com/rosie.mutual.aid)  
-
-[carladrawz](https://www.instagram.com/carladrawz) - can make graphic and boost sometimes  
-[the.gauntlets](https://www.instagram.com/the.gauntlets) - makes comics to boost
+ 
 
 other groups/individuals: (pls check their bios or latest updates as their capacity can fluctuate)  
 [gazadirect2familyaidsource](https://www.instagram.com/gazadirect2familyaidsource)  
