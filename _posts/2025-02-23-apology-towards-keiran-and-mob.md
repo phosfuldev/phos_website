@@ -12,8 +12,12 @@ tags: []
 
 #### What happened 
 
-I screenshoted Alana's repost of what Keiran said about getting prepared and survival skills, and vaguely said "this is a weird take" etc. Alana reached out about it and we talked a little bit. At the time I responded to/talked with Alana, I didn't understand the core of the issue so I responded unreasonably.
-(saying the fact that I was responding to Alana's repost is just to be clear, but I still understand my behaviour had the most impact to Keiran and Mob and that's the important part)
+I screenshoted A's repost of what Keiran said about getting prepared and survival skills, and vaguely said "this is a weird take". A reached out about it and we talked a little bit. At the time I responded to/talked with A, I didn't understand the core of the issue so I responded unreasonably.
+This happened in mid Feburary 2025.
+
+(keeping "A" anon as I cannot confirm with them if they're ok to be mentioned, and they're not a public figure)
+
+(saying the fact that I was responding to A's repost is just to be clear, but I still understand my behaviour had the most impact to Keiran and Mob and that's the important part) 
 
 
 #### My apology & self analysis
@@ -23,17 +27,19 @@ I screenshoted Alana's repost of what Keiran said about getting prepared and sur
 I shouldn't have casually and vaguely "critiqued"/criticised a Blak person/their views on my stories, and I apologise for that. No matter what my exact intentions were at the time of posting, it was another case of settler's recurring/ongoing attempt to wear out Mob and discredit their efforts. My lack of consideration and my inability to see the issue at the time showed deeply ingrained racism and lack of respect towards Mob. 
 
 
-##### Bad faith, double standards & context collapse
+##### Bad faith & double standards
 
-I saw what Keiran said and I jumped to conclusions. Just from this snippet of text, or even combined with the little I know about them, I shuoldn't have judged Keiran or Alana to be ableist so quickly. 
+I saw what Keiran said and I jumped to conclusions. Just from this snippet of text, or even combined with the little I know about them, I should't have judged Keiran or A to be ableist so quickly. I should have approached this with curiosity and humility, instead of assuming I already understand everything including what's not even said.  
 
-I do think ableism and sanism is widespread (both in general and in "left" spaces) and we should be more aware and talk about it. But this was not the place, and what Keiran said can only be seen as related through specific interpretations. At the very least, I should have asked for clarification with curiosity. In that way, I could have a chance(*) to actually understand all the relevant context. Even if I had just taken a pause before posting my reaction (yes, it wasn't really a critique but just a reaction), I may realise how much I was missing/misunderstanding, and maybe I would've shut up.
+I reacted to what he said because of my previous experience of "survivalist talking points". I was activated and wasn't seeing clearly, and I ended up perpetuating harm towards Mob as a settler, instead of fighting against it. I should do better on recognising activated states and take a pause when needed. 
 
-I applied a double standard here, I felt like since Kieran didn't make 100% clear what he meant, I could chime in with my interpretation like it was the "truth", like I know what was going on in his head. But when what I said was treated like that, of course I was unhappy! I wanted *my* intentions to be read as benign but I didn't treat what Keiran said with the same attitude. I apologise for this and will strive to be more self aware.  
+I do think ableism and sanism is widespread (both in general and in "left" spaces) and we should be more aware and talk about it. But this was not the place, as everything I was thinking and my attitude was based on my assumptions.
 
-I have also been hypocritical towards Alana's story post about myself in the same way. I initially thought, I was just casually mentioning it, externalising my thoughts as they come just like I always do, but their post was more like an intentional, serious attack. But I can see now, if the roles reversed, my stories would be felt in the exact same way. 
+I had applied double standards. I felt like since Kieran didn't make 100% clear what he meant, I could just start going on with my interpretation. But when what I said was treated like that, I was unhappy; I wanted people to believe *my* intentions were benign but I didn't treat what Keiran said with the same attitude. I apologise for this and will strive to be more self aware.  
 
-I always talked about treating each other with kindness and curiosity, the need to build real relationships despite trauma and online algorithms, but I still have a long way to go. A lot of us are tense in this time, it feels like too much is at stake, and too little progress is happening. This isn't to excuse what I did, but instead I want to say, learn from this example. even if we are tense, we still need to treat each other like how we want to be treated. like we depend on each other. Otherwise, we'll just start more trauma.
+I have also been hypocritical towards A's story post about myself in the same way. I initially thought, I was just casually mentioning it, externalising my thoughts as they come just like I always do, but their post was more like an intentional, serious attack. But I can see now, if the roles reversed, my stories would be felt in the exact same way. 
+
+I always talked about treating each other with kindness and curiosity, the need to build real relationships despite trauma and online algorithms, but I still have a long way to go. A lot of us are tense in this time, it feels like too much is at stake, and too little progress is happening. This isn't to excuse what I did, but instead I want to say, learn from my example. even if we are tense, we still need to treat each other like how we want to be treated. like we depend on each other. Otherwise, we'll just continue the cycle of harm.
 
 
 ##### Survival skills
@@ -58,15 +64,17 @@ I also want to acknowledge, over time on Instagram, I have been messaging people
 #### The end
 
 Thanks to a few friends who gently held me accountable and talked through the problems with me. Your time, patience and understanding is greatly appreciated.  
-I thank Alana for first bringing up the issue with me. 
+I thank A for first bringing up the issue with me. 
 
-If you have any thoughts you want to share about this, I welcome them. If from reading this you still see issues on something, please let me know. Any corrections/additions will be in caption or comments. 
+I hope this can be helpful for other settlers to also check your behaviour and beliefs, and how you react to things.
+
+If you have any thoughts you want to share about this, I welcome them. If from reading this you still see issues on something, please let me know. 
 
 
 #### References
 
-- the concept of "settler moves to innocence", from essay "Decolonization is Not a Metaphor" by Eve Tuck and K. Wayne Yang. [Link](https://clas.osu.edu/sites/clas.osu.edu/files/Tuck%20and%20Yang%202012%20Decolonization%20is%20not%20a%20metaphor.pdf) (Let me know if the link stops working!)
+- the concept of "settler moves to innocence", from essay "Decolonization is Not a Metaphor" by Eve Tuck and K. Wayne Yang. [Essay PDF](https://clas.osu.edu/sites/clas.osu.edu/files/Tuck%20and%20Yang%202012%20Decolonization%20is%20not%20a%20metaphor.pdf) [Audiobook](https://www.youtube.com/playlist?list=PLUn2YozZnB_0BaIujdJA0BCb3jrBMwxMq) (Let me know if the link stops working!)
  
 - ["Bad faith engagement" post by Keiran](https://www.instagram.com/p/DGAccOSTqIO/)
 
-- the concept of "context collapse" [Wiki](https://en.wikipedia.org/wiki/Context_collapse) I also saw [this video](https://youtu.be/QEJpZjg8GuA) which touched on it 
+- the concept of "context collapse" ([Wiki](https://en.wikipedia.org/wiki/Context_collapse)) I also saw [this video](https://youtu.be/QEJpZjg8GuA) which touched on it 
