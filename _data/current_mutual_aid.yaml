@@ -4,7 +4,7 @@ campaigns:
 
   - ID: 1
     name: Help DV Survivor Stay Housed and Continue Medical Treatments for Herself and Doggo (image does not have ID)
-    goal: min $850 every week (needed by Monday)
+    goal: min $600 every week
     image: "/assets/images/MA_tiles/for_S_2025_Feb.jpg"
     image_description: >
     bank_details: "Name: S L; bsb: 063023; account: 10280427"
@@ -28,6 +28,7 @@ campaigns:
     image_description: >
       Lilac background with blue boarders surrounding the text box. There are stars and other decorative doodles across the image. The text has a background of dreamy light blue and lilac blobs blending into each other. Text says: "Elder's Survival Fund. Aiming to secure a consistent and reliable weekly income for Elder. Can you set up a regular weekly contribution? Goal: $300 per week. Name: Any. BSB: 733 242. ACCT: 656 473."
     link: 
+    goal: $300 per week
     urgency:
 
   - ID: 4
@@ -41,7 +42,7 @@ campaigns:
 
   - ID: 5
     name: Mob Strong fund (image has ID)
-    goal: 
+    goal: $30k
     description: 
     image: "assets/images/MA_tiles/Mob_strong_fund_1.jpg"
     image_description: >
