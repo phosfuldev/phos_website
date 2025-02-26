@@ -3,47 +3,30 @@
 campaigns:
 
   - ID: 1
-    name: Help DV Survivor Stay Housed and Continue Medical Treatments for Herself and Doggo (image has ID)
+    name: Help DV Survivor Stay Housed and Continue Medical Treatments for Herself and Doggo (image does not have ID)
     goal: min $850 every week (needed by Monday)
-    image: "/assets/images/MA_tile_for_S_25_jan.jpg"
+    image: "/assets/images/MA_tiles/for_S_2025_Feb.jpg"
     image_description: >
-      Pink gradient background with dark pink text. There's 2 graphics of a cute corgi (dog) on the bottom of the post on each side.
-      Text reads:
-      Mutual Aid Request.
-      DV and homelessness survivor, S, needs our ongoing support to stay housed and get her life back on track. She needs to pay rent, her meds and her doggo's meds until she can get on Centrelink.
-      She needs to pay rent, her meds and her doggo's meds until she can get on Centrelink. These costs are about $1000 a week total. She also needs to pay for other essentials like food and dog food. 
-      Name: S L
-      bsb: 063 023
-      acoount: 1028 0427
-      or use Chuffed link 
     bank_details: "Name: S L; bsb: 063023; account: 10280427"
     link: https://www.chuffed.org/project/115620-help-dv-survivor-stay-housed-and-continue-medical-treatments
     urgency: 1
 
   - ID: 2
-    name: Queer, Disabled, Mad, Neurodivergent Comrade needs funds for survival and safety! (image has ID)
+    name: Transqueer, Disabled, Caste Oppressed Comrade Needs Funds for Survival and Safety! (image has ID)
     goal: at least $240 USD ($385 AUD) each month
-    image: "/assets/images/MA_tile_Mukta_move_out.jpg"
+    image: "/assets/images/MA_tiles/Mukta_move_out_2025_Feb.jpg"
     image_description: >
-      on muted purple background, there are vaporwave style graphics including a old style browser "frame" and pastel stars and shapes. There are text in dark grey and light pastel purple.
-      text says:
-      Queer, Disabled, Mad, Neurodivergent Comrade needs funds for survival and safety.
-      Mukta is experiencing domestic violence for extended period of their life, and being targeted by police.
-      They need to move to a safe home to meet their basic needs, to survive and then thrive.
-      We are looking to raise about $360 USD ($578 AUD) initially and $240 USD ($385 AUD) per month ongoing.
-      PayPal: muktamalini141592@gmail.com
-      aus* bank deets:
-      bsb: 313 140
-      account: 1249 3383
-    bank_details: "name: P L; bsb: 313140; acc: 12493383"
+      On crumpled paper, dried flowers are laid out. White semi-transparent text boxes cover most of the art. Text in dark grey and purple says: "Transqueer, Disabled, Caste Oppressed Comrade Needs Funds for Survival and Safety. Mukta needs our support to escape domestic violence and survive under severe targeted violence/oppression including casteism. It’s very difficult for them to navigate society with little support, their most basic needs are often not met, and they are not able to work due to disability and chronic illnesses. They need funds to move to a safe home and pay for ongoing living expenses. Bank deets (NEW!): Name: Mukta. Bsb: 313 140. Account: 1252 2975. If you had set up a recurring transfer before, feel free to change the bank details to this! Thank you <3 "
+    bank_details: "Name: Mukta. Bsb: 313 140. Account: 1252 2975"
     link: https://ko-fi.com/em141592/shop
     urgency: 1
 
   - ID: 3
-    name: Elder's survival fund (image does not have ID)
+    name: Elder's survival fund (image has ID)
     goal: 
-    image: "assets/images/MA_tile_Elder_ongoing.jpg"
+    image: "assets/images/MA_tiles/Elder_ongoing.jpg"
     image_description: >
+      Lilac background with blue boarders surrounding the text box. There are stars and other decorative doodles across the image. The text has a background of dreamy light blue and lilac blobs blending into each other. Text says: "Elder's Survival Fund. Aiming to secure a consistent and reliable weekly income for Elder. Can you set up a regular weekly contribution? Goal: $300 per week. Name: Any. BSB: 733 242. ACCT: 656 473."
     link: 
     urgency:
 
@@ -51,27 +34,36 @@ campaigns:
     name: Uncle Frank cancer meds (image does not have ID)
     goal: $120 per week
     description: 
-    image: "assets/images/MA_tile_uncle_Frank_cancer_meds.png"
+    image: "assets/images/MA_tiles/uncle_Frank_cancer_meds.png"
     image_description: >
     link: 
     urgency:
 
   - ID: 5
-    name: 
+    name: Mob Strong fund (image has ID)
     goal: 
     description: 
-    image: 
+    image: "assets/images/MA_tiles/Mob_strong_fund_1.jpg"
     image_description: >
+      Light beige background with deep red text. The style of the image is like a scanned print. There is large "30k" written at the bottom of the image and crosses over to the top as well. Text says: "Mutual aid. Mob Strong Fund. General fund. BSB - 063097 Acct. No. - 49558992. 100% funds goes towards Blakfella mutual aid. Goal By April. "
     link: 
     urgency:
 
   - ID: 6
-    name: 
-    goal: 
-    description: 
+    name: Darug Uncle's survival fund
+    goal: $30,000
+    description: >
+      (words taken from Chuffed campaign) We are raising funds for a well known and beloved Darug Uncle that is experiencing extremely difficult times. During these months he has experienced numerous levels of violence at the hands of the colony.
+      These include: 
+      - The devastasting loss of his new born granddaughter from Covid
+      - Ongoing homelessness
+      - Breakdown of his permanent housing option due to racist neighbours
+      - Police brutality
+      - Repeated incaceration due to racial profiling and stigmatisation by police
+      Funds would go towards securing permanent housing, paying off all fines and preventing any further late incursion fees and daily needs such as food and water. 
     image: 
     image_description: >
-    link: 
+    link: https://chuffed.org/project/darug-uncles-survival-fund
     urgency:
 
   - ID: 7
