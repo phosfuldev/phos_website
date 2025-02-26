@@ -17,7 +17,7 @@ campaigns:
     image: "/assets/images/MA_tiles/Mukta_move_out_2025_Feb.jpg"
     image_description: >
       On crumpled paper, dried flowers are laid out. White semi-transparent text boxes cover most of the art. Text in dark grey and purple says: "Transqueer, Disabled, Caste Oppressed Comrade Needs Funds for Survival and Safety. Mukta needs our support to escape domestic violence and survive under severe targeted violence/oppression including casteism. It’s very difficult for them to navigate society with little support, their most basic needs are often not met, and they are not able to work due to disability and chronic illnesses. They need funds to move to a safe home and pay for ongoing living expenses. Bank deets (NEW!): Name: Mukta. Bsb: 313 140. Account: 1252 2975. If you had set up a recurring transfer before, feel free to change the bank details to this! Thank you <3 "
-    bank_details: "Name: Mukta. Bsb: 313 140. Account: 1252 2975"
+    bank_details: "Name: Mukta; Bsb: 313140; Account: 12522975"
     link: https://ko-fi.com/em141592/shop
     urgency: 1
 
@@ -28,6 +28,7 @@ campaigns:
     image_description: >
       Lilac background with blue boarders surrounding the text box. There are stars and other decorative doodles across the image. The text has a background of dreamy light blue and lilac blobs blending into each other. Text says: "Elder's Survival Fund. Aiming to secure a consistent and reliable weekly income for Elder. Can you set up a regular weekly contribution? Goal: $300 per week. Name: Any. BSB: 733 242. ACCT: 656 473."
     link: 
+    bank_details: "Name: Any; BSB: 733242; ACCT: 656473"
     goal: $300 per week
     urgency:
 
@@ -38,6 +39,7 @@ campaigns:
     image: "assets/images/MA_tiles/uncle_Frank_cancer_meds.png"
     image_description: >
     link: 
+    bank_details: "BSB: 484799; Acc: 122373203; or payID: jarodwoods41@gmail.com"
     urgency:
 
   - ID: 5
@@ -48,6 +50,7 @@ campaigns:
     image_description: >
       Light beige background with deep red text. The style of the image is like a scanned print. There is large "30k" written at the bottom of the image and crosses over to the top as well. Text says: "Mutual aid. Mob Strong Fund. General fund. BSB - 063097 Acct. No. - 49558992. 100% funds goes towards Blakfella mutual aid. Goal By April. "
     link: 
+    bank_details: "BSB: 063097; Acc: 49558992"
     urgency:
 
   - ID: 6
