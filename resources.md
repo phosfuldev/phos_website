@@ -109,9 +109,10 @@ Phizzi (**Note:** only tag no DMs): [Intagram](https://www.instagram.com/shartre
 
 #### Covid educators and activists
 
-Pandemic Resistance: [Website](https://www.pandemicresistance.org/) | [Instagram](https://www.instagram.com/pandemicresistanceinc)  
+Covid Help - consolidated information on all things related to covid: [Website](https://covidhelp.org/)  
 Covid Action Map: [Map](https://www.google.com/maps/d/u/1/viewer?mid=1oUcoZ2njj3b5hh-RRDCLe-i8dSgxhno&ll=19.51380803246727%2C0&z=1) (short link: covidactionmap.org) | [Instagram](https://www.instagram.com/covidactionmap)  
 Clean Air CLub: [Instagram](https://www.instagram.com/clean.air.club)  
+Pandemic Resistance: [Website](https://www.pandemicresistance.org/) | [Instagram](https://www.instagram.com/pandemicresistanceinc)  
 Covid Action Aus: [Instagram](https://www.instagram.com/covidactionaus)  
 wandering (kayli): [Instagram](https://www.instagram.com/wandering)  
 Long COVID Justice: [Instagram](https://www.instagram.com/longcovidjustice)  
@@ -122,7 +123,9 @@ Themme Fatale: [Instagram](https://www.instagram.com/themme_fatale)
 ShiShi Rose: [Instagram](https://www.instagram.com/shishi.rose)  
 Rise: [Instagram](https://www.instagram.com/riotous_roots)  
 
-There are so much more than what's in this list, reach out if you are looking for anything specific. These pages' linktree are also great resources.
+The shame-free guide to no longer giving a shit about COVID-19: [Instagram post (1 of 3)](https://www.instagram.com/p/Cvqt8g-sb6W/) | [Website/PDF download](https://www.whatexactlyisupchuck.com/shame-free-covid-19-2024)
+
+There are so much more than what's in this list, reach out if you are looking for anything specific. These pages' linktree and story highlights are also great resources.
 
 
 #### Direct Action groups (in so called aus) & related

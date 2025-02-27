@@ -3,10 +3,20 @@
 campaigns:
 
   - ID: 1
-    name: Help DV Survivor Stay Housed and Continue Medical Treatments for Herself and Doggo (image does not have ID)
+    name: Help DV Survivor Stay Housed and Continue Medical Treatments for Herself and Doggo (image has ID)
     goal: min $600 every week
     image: "/assets/images/MA_tiles/for_S_2025_Feb.jpg"
     image_description: >
+      pink tartan background, deep pink dog paws on the top and bottom boarders. There are also two cute drawings of a dog on the bottom half on both sides.
+      Text reads: 
+      Mutual Aid Request.
+      DV and homelessness survivor, S, is dealing with multiple illnesses and needs ongoing support to stay housed and get her life back on track. 
+      She needs to pay rent, her meds and her doggo's meds. These are all life saving for the two of them. She also needs to pay for other essentials like food and dog food. 
+      Goal: ~$600 a week
+      Name: S L
+      Bsb: 063023
+      Account: 10280427
+      or use chuffed link in bio
     bank_details: "Name: S L; bsb: 063023; account: 10280427"
     link: https://www.chuffed.org/project/115620-help-dv-survivor-stay-housed-and-continue-medical-treatments
     urgency: 1
