@@ -9,8 +9,8 @@ navbar_entries:
     url: blog 
     # can be actual URL
 
-  - title: projects
-    url: projects 
+  # - title: projects
+  #   url: projects 
 
   - title: fragments
     url: fragments
