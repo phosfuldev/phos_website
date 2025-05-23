@@ -52,3 +52,8 @@ I only have income through some sporadic knitting commissions right now (as of M
 
 I'm constantly in awe of what community can do together, the depth of our kindness knows no end. I have been isolated for many years, and forming/finding my own sort of community recently really opened up my world. I just know I want more of this, for more people.  
 I'd love to make stuff happen with you! If you ever want to do something together or want to use my help, pls reach out - send me a dm on insta, discord (@phos5), bluesky(@pspspspsphos), or [email](mailto:contact.phosworld@protonmail.com)! <3
+
+
+#### Acknowledgment
+
+I used the open source Jekyll template [Moonwalk](https://github.com/abhinavs/moonwalk) to build my site! 
