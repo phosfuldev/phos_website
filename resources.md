@@ -192,9 +192,10 @@ The Auti Anthology: [Instagram](https://www.instagram.com/auti_anthology) - very
 autisticasfxxk: [Instagram](https://www.instagram.com/autisticasfxxk)
 
 
-#### 小红书上的“神经多样”、ADHD/autistic账号推荐！
-一只青苹果：ADHD内容和咨询/监督！小红书号 182006763
-薅他兔毛：脑瘫患者博主！小红书号 689242564
+#### 小红书上的“神经多样”、ADHD/autistic、残障人士账号推荐！
+一只青苹果：ADHD内容和咨询/监督！小红书号 182006763  
+薅他兔毛：脑瘫患者博主！小红书号 689242564  
+我是夏恩：聋人博主！超美超酷日常同时观点讨论！小红书号 shane1997_  
 
 #### Other things/people you should know 
 
